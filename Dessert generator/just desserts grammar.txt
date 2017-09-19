@@ -1,0 +1,570 @@
+{
+
+"origin": ["#Almond tart#", "#Angel food cake#", "#Apple brown betty#", "#Apple Charlotte#", "#Apple crumble#", "#Banana muffins#", "#Banoffee pie#", "#Battenberg cake#", "#Belgian waffles#", "#Biscotti Regina#", "#Biscuit Tortoni#", "#Black Forest gateau#", "#Blueberry pie#", "#Boston cream pie#", "#Bread and butter pudding#", "#Bundt cake#", "#Butterkuchen#", "#Butterscotch pie#", "#Cake pops#", "#Capuccino chocolate muffins#", "#Caraway seed cake#", "#Carrot cake#", "#Cassata cake#", "#Castella cake#", "#Chantilly cake#", "#Chelsea buns#", "#Cherries Jubilee#", "#Cherry pie#", "#Chiffon cake#", "#Chocolate bombe#", "#Chocolate brownies#", "#Chocolate chip cookies#", "#Chocolate chip scones#", "#Chocolate eclairs#", "#Chocolate fudge cake#", "#Chocolate ganache cake#", "#Chocolate lava cake#", "#Chocolate mousse#", "#Chocolate pralines#", "#Chocolate truffles#", "#Christmas fruitcake#", "#Cinnamon rolls#", "#Coconut cake#", "#Coconut Macaroons#", "#Coffee cake#", "#Cracker cake#", "#Crème brûlée#", "#Crepes Suzette#", "#Crumb cake#", "#Custard tarts#", "#Devil's food cake#", "#Double chocolate muffins#", "#Dundee cake#", "#Eccles cakes#", "#Flourless chocolate cake#", "#Foam cake#", "#Fruit flan#", "#Fruit salad#", "#Funnel cakes#", "#Gelato#", "#German chocolate cake#", "#Gingerbread house#", "#Gingerbread men#", "#Gooey butter cake#", "#Gugelhupf cake#", "#Hot cakes with syrup#", "#Hot milk cake#", "#Hummingbird cake#", "#Ice cream cake#", "#Ice cream sundaes#", "#Jaffa cakes#", "#Jam rolly polly#", "#Jam tart#", "#Jamaican rum cake#", "#Jewish apple cake#", "#Kentucky jam cake#", "#Ladyfinger biscuits#", "#Lamington cake#", "#Lardy cake#", "#Layer cake#", "#Lemon citrus tart#", "#Lemon drizzle cake#", "#Lemon meringue pie#", "#Madeira cake#", "#Madeleines#", "#Chocolate marble cake#", "#Marzipan cake#", "#Meringue cake#", "#Millionaire's shortbread squares#", "#Molasses cake#", "#Molten chocolate cake#", "#Napoleon cream slice#", "#Neapolitan ice cream#", "#New York cheesecake#", "#Nutella pancakes#", "#Pain d'Epices#", "#Pan Forte#", "#Pandan cake#", "#Panna cotta#", "#Pannetone#", "#Pavlova#", "#Peach Melba#", "#Peanut butter cups#", "#Pear flan#", "#Pecan pie#", "#Petit fours#", "#Poire belle Helene#", "#Pound cake#", "#Prinzregententorte#", "#Profiteroles and chocolate sauce#", "#Pumpkin pie#", "#Punschkrapfen#", "#Red velvet cake#", "#Rice Krispie cakes#", "#Rice pudding#", "#Rock cakes#", "#Rocky road#", "#Rum baba#", "#Rum cake#", "#Sachertorte#", "#Sesame seed cake#", "#Shoofly pie#", "#Simnel cake#", "#Snickers cake#", "#Spice cake#", "#Sponge cake#", "#Stollen cake#", "#Strawberry cheesecake#", "#Strawberry shortcake#", "#Streuselkuchen#", "#Swiss roll#", "#Tarta de Santiago#", "#Tarte Tatin#", "#Tartufo#", "#Chocolate marshmallow tea cakes#", "#Tea loaf#", "#Tin roof pie#", "#Tipsy cake#", "#Tiramisu#", "#Torta caprese#", "#Torta de nata#", "#Treacle tart#", "#Tres leches cake#", "#Pineapple upside-down cake#", "#Vanilla cupcakes#", "#Apple Strudel#", "#Vinegar pie#", "#Vanilla wafer cake#", "#Walnut cake#", "#White sugar sponge cake#", "#Yule log#", "#Zabaione#", "#Mille feuille vanilla cake#", "#Raspberry mille-feuille#"],
+
+
+"Almond tart": ["Almond tart made with #almonds# instead of almonds", "Almond tart made with #eggs# instead of eggs", "Almond tart made with #milk# instead of milk", "Almond tart made with #sugar# instead of sugar", "Almond tart made with #flour# instead of flour"],
+
+"Angel food cake": ["Angel food cake made with #egg whites# instead of egg whites", "Angel food cake made with #sponge# instead of sponge", "Angel food cake made with #sugar# instead of sugar"],
+
+"Apple brown betty": ["Apple brown betty made with #apples# instead of apples", "Apple brown betty made with #crumbs# instead of crumbs", "Apple brown betty made with #butter# instead of butter", "Apple brown betty made with #brown sugar# instead of brown sugar"],
+
+"Apple Charlotte": ["Apple Charlotte made with #apples# instead of apples", "Apple Charlotte made with #sugar# instead of sugar", "Apple Charlotte made with #butter# instead of butter", "Apple Charlotte made with #bread slices# instead of bread slices"],
+
+"Apple crumble": ["Apple crumble made with #apples# instead of apples", "Apple crumble made with #flour# instead of flour", "Apple crumble made with #sugar# instead of sugar", "Apple crumble made with #butter# instead of butter"],
+
+"Banana muffins": ["Banana muffins made with #bananas# instead of bananas", "Banana muffins made with #flour# instead of flour", "Banana muffins made with #eggs# instead of eggs", "Banana muffins made with #milk# instead of milk", "Banana muffins made with #sugar# instead of sugar"],
+
+"Banoffee pie": ["Banoffee pie made with #bananas# instead of bananas", "Banoffee pie made with #cream# instead of cream", "Banoffee pie made with #toffee# instead of toffee", "Banoffee pie made with #biscuit crumbs# instead of biscuit crumbs"],
+
+"Battenberg cake": ["Battenberg cake made with #sponge# instead of sponge", "Battenberg cake made with #jam# instead of jam", "Battenberg cake made with #marzipan# instead of marzipan"],
+
+"Belgian waffles": ["Belgian waffles made with #eggs# instead of eggs", "Belgian waffles made with #milk# instead of milk", "Belgian waffles made with #flour# instead of flour", "Belgian waffles made with #sugar# instead of sugar", "Belgian waffles made with #vanilla essence# instead of vanilla essence"],
+
+"Biscotti Regina": ["Biscotti Regina made with #sesame seeds# instead of sesame seeds", "Biscotti Regina made with #orange zest# instead of orange zest", "Biscotti Regina made with #flour# instead of flour", "Biscotti Regina made with #eggs# instead of eggs", "Biscotti Regina made with #milk# instead of milk"],
+
+"Biscuit Tortoni": ["Biscuit Tortoni made with #heavy cream# instead of heavy cream", "Biscuit Tortoni made with #almonds# instead of almonds", "Biscuit Tortoni made with #chocolate chips# instead of chocolate chips", "Biscuit Tortoni made with #rum# instead of rum"],
+
+"Black Forest gateau": ["Black Forest gateau made with #cherries# instead of cherries", "Black Forest gateau made with #cocoa powder# instead of cocoa powder", "Black Forest gateau made with #eggs# instead of eggs", "Black Forest gateau made with #flour# instead of flour", "Black Forest gateau made with #whipped cream# instead of whipped cream", "Black Forest gateau made with #kirsch# instead of kirsch", "Black Forest gateau made with #chocolate curls# instead of chocolate curls"],
+
+"Blueberry pie": ["Blueberry pie made with #blueberries# instead of blueberries", "Blueberry pie made with #butter# instead of butter", "Blueberry pie made with #milk# instead of milk", "Blueberry pie made with #sugar# instead of sugar", "Blueberry pie made with #flour# instead of flour"],
+
+"Boston cream pie": ["Boston cream pie made with #heavy cream# instead of heavy cream", "Boston cream pie made with #buttermilk# instead of buttermilk", "Boston cream pie made with #flour# instead of flour", "Boston cream pie made with #button# instead of button", "Boston cream pie made with #sugar# instead of sugar"],
+
+"Bread and butter pudding": ["Bread and butter pudding made with #bread slices# instead of bread slices", "Bread and butter pudding made with #sugar# instead of sugar", "Bread and butter pudding made with #butter# instead of butter", "Bread and butter pudding made with #milk# instead of milk", "Bread and butter pudding made with #eggs# instead of eggs", "Bread and butter pudding made with #cinnamon# instead of cinnamon"],
+
+"Bundt cake": ["Bundt cake made with #eggs# instead of eggs", "Bundt cake made with #milk# instead of milk", "Bundt cake made with #flour# instead of flour", "Bundt cake made with #sugar# instead of sugar", "Bundt cake made with #lemon zest# instead of lemon zest"],
+
+"Butterkuchen": ["Butterkuchen made with #eggs# instead of eggs", "Butterkuchen made with #butter# instead of butter", "Butterkuchen made with #flour# instead of flour", "Butterkuchen made with #sugar# instead of sugar"],
+
+"Butterscotch pie": ["Butterscotch pie made with #brown sugar# instead of brown sugar", "Butterscotch pie made with #egg yolks# instead of egg yolks", "Butterscotch pie made with #cornstarch# instead of cornstarch", "Butterscotch pie made with #milk# instead of milk"],
+
+"Cake pops": ["Cake pops made with #eggs# instead of eggs", "Cake pops made with #butter# instead of butter", "Cake pops made with #flour# instead of flour", "Cake pops made with #sugar# instead of sugar"],
+
+"Capuccino chocolate muffins": ["Capuccino chocolate muffins made with #coffee powder# instead of coffee powder", "Capuccino chocolate muffins made with #eggs# instead of eggs", "Capuccino chocolate muffins made with #butter# instead of butter", "Capuccino chocolate muffins made with #flour# instead of flour", "Capuccino chocolate muffins made with #sugar# instead of sugar"],
+
+"Caraway seed cake": ["Caraway seed cake made with #caraway seeds# instead of caraway seeds", "Caraway seed cake made with #eggs# instead of eggs", "Caraway seed cake made with #butter# instead of butter", "Caraway seed cake made with #flour# instead of flour", "Caraway seed cake made with #sugar# instead of sugar"],
+
+"Carrot cake": ["Carrot cake made with #shredded carrots# instead of shredded carrots", "Carrot cake made with #sultanas# instead of sultanas", "Carrot cake made with #orange zest# instead of orange zest", "Carrot cake made with #cinnamon# instead of cinnamon", "Carrot cake made with #nutmeg# instead of nutmeg", "Carrot cake made with #flour# instead of flour", "Carrot cake made with #eggs# instead of eggs"],
+
+"Cassata cake": ["Cassata cake made with #ricotta cheese# instead of ricotta cheese", "Cassata cake made with #cornstarch# instead of cornstarch", "Cassata cake made with #butter# instead of butter", "Cassata cake made with #flour# instead of flour", "Cassata cake made with #citrus oil# instead of citrus oil", "Cassata cake made with #vanilla essence# instead of vanilla essence"],
+
+"Castella cake": ["Castella cake made with #sugar# instead of sugar", "Castella cake made with #flour# instead of flour", "Castella cake made with #eggs# instead of eggs", "Castella cake made with #starch syrup# instead of starch syrup"],
+
+"Chantilly cake": ["Chantilly cake made with #heavy cream# instead of heavy cream", "Chantilly cake made with #flour# instead of flour", "Chantilly cake made with #butter# instead of butter", "Chantilly cake made with #eggs# instead of eggs"],
+
+"Chelsea buns": ["Chelsea buns made with #sugar# instead of sugar", "Chelsea buns made with #flour# instead of flour", "Chelsea buns made with #eggs# instead of eggs", "Chelsea buns made with #starch syrup# instead of starch syrup", "Chelsea buns made with #sultanas# instead of sultanas", "Chelsea buns made with #raisins# instead of raisins"],
+
+"Cherries Jubilee": ["Cherries Jubilee made with #cherries# instead of cherries", "Cherries Jubilee made with #cherry liqueur# instead of cherry liqueur", "Cherries Jubilee made with #vanilla ice cream# instead of vanilla ice cream"],
+
+"Cherry pie": ["Cherry pie made with #cherries# instead of cherries", "Cherry pie made with #butter# instead of butter", "Cherry pie made with #sugar# instead of sugar", "Cherry pie made with #flour# instead of flour"],
+
+"Chiffon cake": ["Chiffon cake made with #vegetable oil# instead of vegetable oil", "Chiffon cake made with #eggs# instead of eggs", "Chiffon cake made with #sugar# instead of sugar", "Chiffon cake made with #flour# instead of flour", "Chiffon cake made with #icing sugar# instead of icing sugar"],
+
+"Chocolate bombe": ["Chocolate bombe made with #ground almonds# instead of ground almonds", "Chocolate bombe made with #cocoa powder# instead of cocoa powder", "Chocolate bombe made with #flour# instead of flour", "Chocolate bombe made with #vanilla essence# instead of vanilla essence", "Chocolate bombe made with #heavy cream# instead of heavy cream", "Chocolate bombe made with #chocolate# instead of chocolate"],
+
+"Chocolate brownies": ["Chocolate brownies made with #chocolate chips# instead of chocolate chips", "Chocolate brownies made with #cocoa powder# instead of cocoa powder", "Chocolate brownies made with #flour# instead of flour", "Chocolate brownies made with #eggs# instead of eggs", "Chocolate brownies made with #sugar# instead of sugar", "Chocolate brownies made with #milk# instead of milk"],
+
+"Chocolate chip cookies": ["Chocolate chip cookies made with #chocolate chips# instead of chocolate chips", "Chocolate chip cookies made with #cocoa powder# instead of cocoa powder", "Chocolate chip cookies made with #flour# instead of flour", "Chocolate chip cookies made with #eggs# instead of eggs", "Chocolate chip cookies made with #sugar# instead of sugar", "Chocolate chip cookies made with #milk# instead of milk"],
+
+"Chocolate chip scones": ["Chocolate chip scones made with #chocolate chips# instead of chocolate chips", "Chocolate chip scones made with #cocoa powder# instead of cocoa powder", "Chocolate chip scones made with #flour# instead of flour", "Chocolate chip scones made with #eggs# instead of eggs", "Chocolate chip scones made with #sugar# instead of sugar", "Chocolate chip scones made with #milk# instead of milk", "Chocolate chip scones made with #baking powder# instead of baking powder"],
+
+"Chocolate eclairs": ["Chocolate eclairs made with #choux pastry# instead of choux pastry", "Chocolate eclairs made with #chocolate fondant# instead of chocolate fondant", "Chocolate eclairs made with #heavy cream# instead of heavy cream"],
+
+"Chocolate fudge cake": ["Chocolate fudge cake made with #golden syrup# instead of golden syrup", "Chocolate fudge cake made with #cocoa powder# instead of cocoa powder", "Chocolate fudge cake made with #flour# instead of flour", "Chocolate fudge cake made with #eggs# instead of eggs", "Chocolate fudge cake made with #milk# instead of milk"],
+
+"Chocolate ganache cake": ["Chocolate ganache cake made with #brown sugar# instead of brown sugar", "Chocolate ganache cake made with #cocoa powder# instead of cocoa powder", "Chocolate ganache cake made with #flour# instead of flour", "Chocolate ganache cake made with #eggs# instead of eggs", "Chocolate ganache cake made with #chocolate ganache# instead of chocolate ganache"],
+
+"Chocolate lava cake": ["Chocolate lava cake made with #butter# instead of butter", "Chocolate lava cake made with #chocolate# instead of chocolate", "Chocolate lava cake made with #cocoa powder# instead of cocoa powder", "Chocolate lava cake made with #egg yolks# instead of egg yolks", "Chocolate lava cake made with #vanilla essence# instead of vanilla essence"],
+
+"Chocolate mousse": ["Chocolate mousse made with #chocolate# instead of chocolate", "Chocolate mousse made with #cocoa powder# instead of cocoa powder", "Chocolate mousse made with #orange zest# instead of orange zest", "Chocolate mousse made with #egg yolks# instead of egg yolks", "Chocolate mousse made with #egg whites# instead of egg whites", "Chocolate mousse made with #sugar# instead of sugar"],
+
+"Chocolate pralines": ["Chocolate pralines made with #hazelnuts# instead of hazelnuts", "Chocolate pralines made with #almonds# instead of almonds", "Chocolate pralines made with #chocolate# instead of chocolate", "Chocolate pralines made with #sugar# instead of sugar", "Chocolate pralines made with #pecans# instead of pecans", "Chocolate pralines made with #cream# instead of cream"],
+
+"Chocolate truffles": ["Chocolate truffles made with #chocolate ganache# instead of chocolate ganache", "Chocolate truffles made with #cocoa powder# instead of cocoa powder", "Chocolate truffles made with #toasted nuts# instead of toasted nuts", "Chocolate truffles made with #heavy cream# instead of heavy cream"],
+
+"Christmas fruitcake": ["Christmas fruitcake made with #dried cherries# instead of dried cherries", "Christmas fruitcake made with #raisins# instead of raisins", "Christmas fruitcake made with #sultanas# instead of sultanas", "Christmas fruitcake made with #dried cranberries# instead of dried cranberries", "Christmas fruitcake made with #brandy# instead of brandy", "Christmas fruitcake made with #flour# instead of flour", "Christmas fruitcake made with #eggs# instead of eggs", "Christmas fruitcake made with #milk# instead of milk", "Christmas fruitcake made with #sugar# instead of sugar", "Christmas fruitcake made with #nutmeg# instead of nutmeg"],
+
+"Cinnamon rolls": ["Cinnamon rolls made with #flour# instead of flour", "Cinnamon rolls made with #cinnamon# instead of cinnamon", "Cinnamon rolls made with #sugar# instead of sugar", "Cinnamon rolls made with #butter# instead of butter"],
+
+"Coconut cake": ["Coconut cake made with #shredded coconut# instead of shredded coconut", "Coconut cake made with #flour# instead of flour", "Coconut cake made with #milk# instead of milk", "Coconut cake made with #eggs# instead of eggs", "Coconut cake made with #sugar# instead of sugar"],
+
+"Coconut Macaroons": ["Coconut Macaroons made with #shredded coconut# instead of shredded coconut", "Coconut Macaroons made with #condensed milk# instead of condensed milk", "Coconut Macaroons made with #egg whites# instead of egg whites", "Coconut Macaroons made with #sugar# instead of sugar"],
+
+"Coffee cake": ["Coffee cake made with #coffee powder# instead of coffee powder", "Coffee cake made with #flour# instead of flour", "Coffee cake made with #milk# instead of milk", "Coffee cake made with #sugar# instead of sugar", "Coffee cake made with #eggs# instead of eggs"],
+
+"Cracker cake": ["Cracker cake made with #saltines# instead of saltines", "Cracker cake made with #blueberries# instead of blueberries", "Cracker cake made with #cool whip# instead of cool whip", "Cracker cake made with #sugar# instead of sugar"],
+
+"Crème brûlée": ["Crème brûlée made with #vanilla essence# instead of vanilla essence", "Crème brûlée made with #eggs# instead of eggs", "Crème brûlée made with #milk# instead of milk", "Crème brûlée made with #sugar# instead of sugar"],
+
+"Crepes Suzette": ["Crepes Suzette made with #flour# instead of flour", "Crepes Suzette made with #eggs# instead of eggs", "Crepes Suzette made with #sugar# instead of sugar", "Crepes Suzette made with #milk# instead of milk", "Crepes Suzette made with #orange juice# instead of orange juice", "Crepes Suzette made with #orange zest# instead of orange zest", "Crepes Suzette made with #Grand Marnier# instead of Grand Marnier"],
+
+"Crumb cake": ["Crumb cake made with #crumbs# instead of crumbs", "Crumb cake made with #brown sugar# instead of brown sugar", "Crumb cake made with #butter# instead of butter", "Crumb cake made with #flour# instead of flour", "Crumb cake made with #cinnamon# instead of cinnamon"],
+
+"Custard tarts": ["Custard tarts made with #custard# instead of custard", "Custard tarts made with #butter# instead of butter", "Custard tarts made with #flour# instead of flour", "Custard tarts made with #sugar# instead of sugar", "Custard tarts made with #egg yolks# instead of egg yolks", "Custard tarts made with #milk# instead of milk"],
+
+"Devil's food cake": ["Devil's food cake made with #cocoa powder# instead of cocoa powder", "Devil's food cake made with #coffee powder# instead of coffee powder", "Devil's food cake made with #sugar# instead of sugar", "Devil's food cake made with #milk# instead of milk", "Devil's food cake made with #flour# instead of flour", "Devil's food cake made with #chocolate# instead of chocolate", "Devil's food cake made with #eggs# instead of eggs", "Devil's food cake made with #vanilla essence# instead of vanilla essence"],
+
+"Double chocolate muffins": ["Double chocolate muffins made with #cocoa powder# instead of cocoa powder", "Double chocolate muffins made with #chocolate chips# instead of chocolate chips", "Double chocolate muffins made with #eggs# instead of eggs", "Double chocolate muffins made with #flour# instead of flour", "Double chocolate muffins made with #butter# instead of butter", "Double chocolate muffins made with #milk# instead of milk", "Double chocolate muffins made with #sugar# instead of sugar"],
+
+"Dundee cake": ["Dundee cake made with #sultanas# instead of sultanas", "Dundee cake made with #orange zest# instead of orange zest", "Dundee cake made with #eggs# instead of eggs", "Dundee cake made with #sugar# instead of sugar", "Dundee cake made with #flour# instead of flour", "Dundee cake made with #butter# instead of butter", "Dundee cake made with #currants# instead of currants", "Dundee cake made with #almonds# instead of almonds"],
+
+"Eccles cakes": ["Eccles cakes made with #currants# instead of currants", "Eccles cakes made with #brown sugar# instead of brown sugar", "Eccles cakes made with #butter# instead of butter", "Eccles cakes made with #flour# instead of flour", "Eccles cakes made with #cinnamon# instead of cinnamon", "Eccles cakes made with #ground ginger# instead of ground ginger", "Eccles cakes made with #orange zest# instead of orange zest"],
+
+"Flourless chocolate cake": ["Flourless chocolate cake made with #no flour# instead of no flour", "Flourless chocolate cake made with #chocolate# instead of chocolate", "Flourless chocolate cake made with #cocoa powder# instead of cocoa powder", "Flourless chocolate cake made with #egg whites# instead of egg whites", "Flourless chocolate cake made with #egg yolks# instead of egg yolks", "Flourless chocolate cake made with #sugar# instead of sugar"],
+
+"Foam cake": ["Foam cake made with #butter# instead of butter", "Foam cake made with #sugar# instead of sugar", "Foam cake made with #egg whites# instead of egg whites", "Foam cake made with #baking powder# instead of baking powder"],
+
+"Fruit flan": ["Fruit flan made with #flour# instead of flour", "Fruit flan made with #butter# instead of butter", "Fruit flan made with #sugar# instead of sugar", "Fruit flan made with #heavy cream# instead of heavy cream", "Fruit flan made with #blueberries# instead of blueberries", "Fruit flan made with #apples# instead of apples", "Fruit flan made with #bananas# instead of bananas"],
+
+"Fruit salad": ["Fruit salad made with #blueberries# instead of blueberries", "Fruit salad made with #apples# instead of apples", "Fruit salad made with #bananas# instead of bananas"],
+
+"Funnel cakes": ["Funnel cakes made with #eggs# instead of eggs", "Funnel cakes made with #flour# instead of flour", "Funnel cakes made with #sugar# instead of sugar", "Funnel cakes made with #vegetable oil# instead of vegetable oil", "Funnel cakes made with #baking powder# instead of baking powder", "Funnel cakes made with #cinnamon# instead of cinnamon"],
+
+"Gelato": ["Gelato made with #milk# instead of milk", "Gelato made with #sugar# instead of sugar", "Gelato made with #egg yolks# instead of egg yolks", "Gelato made with #cream# instead of cream", "Gelato made with #vanilla essence# instead of vanilla essence"],
+
+"German chocolate cake": ["German chocolate cake made with #butter# instead of butter", "German chocolate cake made with #sugar# instead of sugar", "German chocolate cake made with #chocolate# instead of chocolate", "German chocolate cake made with #egg yolks# instead of egg yolks", "German chocolate cake made with #egg whites# instead of egg whites", "German chocolate cake made with #shredded coconut# instead of shredded coconut", "German chocolate cake made with #chopped pecans# instead of chopped pecans", "German chocolate cake made with #buttermilk# instead of buttermilk"],
+
+"Gingerbread house": ["Gingerbread house made with #golden syrup# instead of golden syrup", "Gingerbread house made with #ground ginger# instead of ground ginger", "Gingerbread house made with #flour# instead of flour", "Gingerbread house made with #butter# instead of butter"],
+
+"Gingerbread men": ["Gingerbread men made with #golden syrup# instead of golden syrup", "Gingerbread men made with #ground ginger# instead of ground ginger", "Gingerbread men made with #flour# instead of flour", "Gingerbread men made with #butter# instead of butter", "Gingerbread men made with #chocolate buttons# instead of chocolate buttons"],
+
+"Gooey butter cake": ["Gooey butter cake made with #flour# instead of flour", "Gooey butter cake made with #butter# instead of butter", "Gooey butter cake made with #sugar# instead of sugar", "Gooey butter cake made with #eggs# instead of eggs", "Gooey butter cake made with #vanilla essence# instead of vanilla essence", "Gooey butter cake made with #cream cheese# instead of cream cheese"],
+
+"Gugelhupf cake": ["Gugelhupf cake made with #egg yolks# instead of egg yolks", "Gugelhupf cake made with #egg whites# instead of egg whites", "Gugelhupf cake made with #butter# instead of butter", "Gugelhupf cake made with #cocoa powder# instead of cocoa powder", "Gugelhupf cake made with #flour# instead of flour", "Gugelhupf cake made with #milk# instead of milk", "Gugelhupf cake made with #icing sugar# instead of icing sugar"],
+
+"Hot cakes with syrup": ["Hot cakes with syrup made with #eggs# instead of eggs", "Hot cakes with syrup made with #flour# instead of flour", "Hot cakes with syrup made with #sugar# instead of sugar", "Hot cakes with syrup made with #baking powder# instead of baking powder", "Hot cakes with syrup made with #golden syrup# instead of golden syrup"],
+
+"Hot milk cake": ["Hot milk cake made with #eggs# instead of eggs", "Hot milk cake made with #butter# instead of butter", "Hot milk cake made with #flour# instead of flour", "Hot milk cake made with #sugar# instead of sugar", "Hot milk cake made with #hot milk# instead of hot milk", "Hot milk cake made with #vanilla essence# instead of vanilla essence"],
+
+"Hummingbird cake": ["Hummingbird cake made with #crushed pineapple# instead of crushed pineapple", "Hummingbird cake made with #bananas# instead of bananas", "Hummingbird cake made with #pecans# instead of pecans", "Hummingbird cake made with #eggs# instead of eggs", "Hummingbird cake made with #vanilla essence# instead of vanilla essence", "Hummingbird cake made with #cinnamon# instead of cinnamon", "Hummingbird cake made with #flour# instead of flour"],
+
+"Ice cream cake": ["Ice cream cake made with #ice cream# instead of ice cream", "Ice cream cake made with #flour# instead of flour", "Ice cream cake made with #eggs# instead of eggs", "Ice cream cake made with #sugar# instead of sugar", "Ice cream cake made with #butter# instead of butter"],
+
+"Ice cream sundaes": ["Ice cream sundaes made with #ice cream# instead of ice cream", "Ice cream sundaes made with #chocolate sauce# instead of chocolate sauce", "Ice cream sundaes made with #pecans# instead of pecans"],
+
+"Jaffa cakes": ["Jaffa cakes made with #chocolate# instead of chocolate", "Jaffa cakes made with #flour# instead of flour", "Jaffa cakes made with #eggs# instead of eggs", "Jaffa cakes made with #sugar# instead of sugar", "Jaffa cakes made with #orange zest# instead of orange zest", "Jaffa cakes made with #gelatin# instead of gelatin"],
+
+"Jam rolly polly": ["Jam rolly polly made with #jam# instead of jam", "Jam rolly polly made with #flour# instead of flour", "Jam rolly polly made with #eggs# instead of eggs", "Jam rolly polly made with #sugar# instead of sugar", "Jam rolly polly made with #butter# instead of butter"],
+
+"Jam tart": ["Jam tart made with #jam# instead of jam", "Jam tart made with #flour# instead of flour", "Jam tart made with #eggs# instead of eggs", "Jam tart made with #sugar# instead of sugar", "Jam tart made with #butter# instead of butter"],
+
+"Jamaican rum cake": ["Jamaican rum cake made with #rum# instead of rum", "Jamaican rum cake made with #ground ginger# instead of ground ginger", "Jamaican rum cake made with #flour# instead of flour", "Jamaican rum cake made with #eggs# instead of eggs", "Jamaican rum cake made with #butter# instead of butter"],
+
+"Jewish apple cake": ["Jewish apple cake made with #apples# instead of apples", "Jewish apple cake made with #orange juice# instead of orange juice", "Jewish apple cake made with #vanilla essence# instead of vanilla essence", "Jewish apple cake made with #cinnamon# instead of cinnamon", "Jewish apple cake made with #eggs# instead of eggs", "Jewish apple cake made with #flour# instead of flour", "Jewish apple cake made with #sugar# instead of sugar"],
+
+"Kentucky jam cake": ["Kentucky jam cake made with #buttermilk# instead of buttermilk", "Kentucky jam cake made with #pecans# instead of pecans", "Kentucky jam cake made with #jam# instead of jam", "Kentucky jam cake made with #raisins# instead of raisins", "Kentucky jam cake made with #eggs# instead of eggs", "Kentucky jam cake made with #butter# instead of butter", "Kentucky jam cake made with #cinnamon# instead of cinnamon", "Kentucky jam cake made with #ground cloves# instead of ground cloves"],
+
+"Ladyfinger biscuits": ["Ladyfinger biscuits made with #egg whites# instead of egg whites", "Ladyfinger biscuits made with #egg yolks# instead of egg yolks", "Ladyfinger biscuits made with #sugar# instead of sugar", "Ladyfinger biscuits made with #flour# instead of flour"],
+
+"Lamington cake": ["Lamington cake made with #chocolate# instead of chocolate", "Lamington cake made with #heavy cream# instead of heavy cream", "Lamington cake made with #shredded coconut# instead of shredded coconut", "Lamington cake made with #flour# instead of flour", "Lamington cake made with #vanilla essence# instead of vanilla essence"],
+
+"Lardy cake": ["Lardy cake made with #lard# instead of lard", "Lardy cake made with #sugar# instead of sugar", "Lardy cake made with #flour# instead of flour", "Lardy cake made with #milk# instead of milk", "Lardy cake made with #ground ginger# instead of ground ginger", "Lardy cake made with #ground cloves# instead of ground cloves"],
+
+"Layer cake": ["Layer cake made with #ground almonds# instead of ground almonds", "Layer cake made with #buttercream# instead of buttercream", "Layer cake made with #flour# instead of flour", "Layer cake made with #sugar# instead of sugar", "Layer cake made with #eggs# instead of eggs", "Layer cake made with #butter# instead of butter"],
+
+"Lemon citrus tart": ["Lemon citrus tart made with #lemon zest# instead of lemon zest", "Lemon citrus tart made with #egg yolks# instead of egg yolks", "Lemon citrus tart made with #butter# instead of butter", "Lemon citrus tart made with #flour# instead of flour", "Lemon citrus tart made with #sugar# instead of sugar", "Lemon citrus tart made with #lemon juice# instead of lemon juice"],
+
+"Lemon drizzle cake": ["Lemon drizzle cake made with #lemon zest# instead of lemon zest", "Lemon drizzle cake made with #eggs# instead of eggs", "Lemon drizzle cake made with #butter# instead of butter", "Lemon drizzle cake made with #flour# instead of flour", "Lemon drizzle cake made with #sugar# instead of sugar", "Lemon drizzle cake made with #lemon juice# instead of lemon juice"],
+
+"Lemon meringue pie": ["Lemon meringue pie made with #egg yolks# instead of egg yolks", "Lemon meringue pie made with #egg whites# instead of egg whites", "Lemon meringue pie made with #meringue# instead of meringue", "Lemon meringue pie made with #lemon juice# instead of lemon juice", "Lemon meringue pie made with #lemon zest# instead of lemon zest", "Lemon meringue pie made with #sugar# instead of sugar", "Lemon meringue pie made with #flour# instead of flour", "Lemon meringue pie made with #butter# instead of butter"],
+
+"Madeira cake": ["Madeira cake made with #butter# instead of butter", "Madeira cake made with #milk# instead of milk", "Madeira cake made with #sugar# instead of sugar", "Madeira cake made with #eggs# instead of eggs"],
+
+"Madeleines": ["Madeleines made with #eggs# instead of eggs", "Madeleines made with #sugar# instead of sugar", "Madeleines made with #flour# instead of flour", "Madeleines made with #lemon zest# instead of lemon zest", "Madeleines made with #baking powder# instead of baking powder"],
+
+"Chocolate marble cake": ["Chocolate marble cake made with #sugar# instead of sugar", "Chocolate marble cake made with #flour# instead of flour", "Chocolate marble cake made with #cocoa powder# instead of cocoa powder", "Chocolate marble cake made with #eggs# instead of eggs", "Chocolate marble cake made with #vanilla essence# instead of vanilla essence"],
+
+"Marzipan cake": ["Marzipan cake made with #marzipan# instead of marzipan", "Marzipan cake made with #almond paste# instead of almond paste", "Marzipan cake made with #ground almonds# instead of ground almonds", "Marzipan cake made with #sugar# instead of sugar", "Marzipan cake made with #eggs# instead of eggs"],
+
+"Meringue cake": ["Meringue cake made with #cornstarch# instead of cornstarch", "Meringue cake made with #sugar# instead of sugar", "Meringue cake made with #meringue# instead of meringue", "Meringue cake made with #heavy cream# instead of heavy cream", "Meringue cake made with #egg whites# instead of egg whites"],
+
+"Millionaire's shortbread squares": ["Millionaire's shortbread squares made with #flour# instead of flour", "Millionaire's shortbread squares made with #butter# instead of butter", "Millionaire's shortbread squares made with #golden syrup# instead of golden syrup", "Millionaire's shortbread squares made with #dark chocolate# instead of dark chocolate", "Millionaire's shortbread squares made with #condensed milk# instead of condensed milk"],
+
+"Molasses cake": ["Molasses cake made with #molasses# instead of molasses", "Molasses cake made with #brown sugar# instead of brown sugar", "Molasses cake made with #ground ginger# instead of ground ginger", "Molasses cake made with #cinnamon# instead of cinnamon", "Molasses cake made with #flour# instead of flour", "Molasses cake made with #coffee powder# instead of coffee powder"],
+
+"Molten chocolate cake": ["Molten chocolate cake made with #dark chocolate# instead of dark chocolate", "Molten chocolate cake made with #flour# instead of flour", "Molten chocolate cake made with #eggs# instead of eggs", "Molten chocolate cake made with #butter# instead of butter", "Molten chocolate cake made with #vanilla essence# instead of vanilla essence"],
+
+"Napoleon cream slice": ["Napoleon cream slice made with #heavy cream# instead of heavy cream", "Napoleon cream slice made with #sugar# instead of sugar", "Napoleon cream slice made with #butter# instead of butter", "Napoleon cream slice made with #flour# instead of flour"],
+
+"Neapolitan ice cream": ["Neapolitan ice cream made with #ice cream# instead of ice cream", "Neapolitan ice cream made with #wafers# instead of wafers"],
+
+"New York cheesecake": ["New York cheesecake made with #cream cheese# instead of cream cheese", "New York cheesecake made with #biscuit crumbs# instead of biscuit crumbs", "New York cheesecake made with #heavy cream# instead of heavy cream", "New York cheesecake made with #golden syrup# instead of golden syrup", "New York cheesecake made with #lemon zest# instead of lemon zest"],
+
+"Nutella pancakes": ["Nutella pancakes made with #Nutella# instead of Nutella", "Nutella pancakes made with #eggs# instead of eggs", "Nutella pancakes made with #flour# instead of flour", "Nutella pancakes made with #milk# instead of milk"],
+
+"Pain d'Epices": ["Pain d'Epices made with #rye flour# instead of rye flour", "Pain d'Epices made with #ground ginger# instead of ground ginger", "Pain d'Epices made with #cinnamon# instead of cinnamon", "Pain d'Epices made with #eggs# instead of eggs"],
+
+"Pan Forte": ["Pan Forte made with #hazelnuts# instead of hazelnuts", "Pan Forte made with #almonds# instead of almonds", "Pan Forte made with #ground ginger# instead of ground ginger", "Pan Forte made with #cinnamon# instead of cinnamon", "Pan Forte made with #orange zest# instead of orange zest", "Pan Forte made with #honey# instead of honey", "Pan Forte made with #flour# instead of flour"],
+
+"Pandan cake": ["Pandan cake made with #egg yolks# instead of egg yolks", "Pandan cake made with #coconut milk# instead of coconut milk", "Pandan cake made with #sugar# instead of sugar", "Pandan cake made with #egg whites# instead of egg whites", "Pandan cake made with #pandan leaves# instead of pandan leaves"],
+
+"Panna cotta": ["Panna cotta made with #vanilla essence# instead of vanilla essence", "Panna cotta made with #eggs# instead of eggs", "Panna cotta made with #heavy cream# instead of heavy cream", "Panna cotta made with #sugar# instead of sugar", "Panna cotta made with #fresh mint# instead of fresh mint", "Panna cotta made with #liqueur# instead of liqueur"],
+
+"Pannetone": ["Pannetone made with #bread slices# instead of bread slices", "Pannetone made with #sugar# instead of sugar", "Pannetone made with #butter# instead of butter", "Pannetone made with #milk# instead of milk", "Pannetone made with #eggs# instead of eggs", "Pannetone made with #cinnamon# instead of cinnamon"],
+
+"Pavlova": ["Pavlova made with #cornflour# instead of cornflour", "Pavlova made with #vanilla essence# instead of vanilla essence", "Pavlova made with #egg whites# instead of egg whites", "Pavlova made with #sugar# instead of sugar"],
+
+"Peach Melba": ["Peach Melba made with #peaches# instead of peaches", "Peach Melba made with #vanilla essence# instead of vanilla essence", "Peach Melba made with #sugar# instead of sugar", "Peach Melba made with #lemon juice# instead of lemon juice"],
+
+"Peanut butter cups": ["Peanut butter cups made with #peanut butter# instead of peanut butter", "Peanut butter cups made with #chocolate# instead of chocolate", "Peanut butter cups made with #sugar# instead of sugar"],
+
+"Pear flan": ["Pear flan made with #pears# instead of pears", "Pear flan made with #milk# instead of milk", "Pear flan made with #sugar# instead of sugar", "Pear flan made with #flour# instead of flour", "Pear flan made with #eggs# instead of eggs"],
+
+"Pecan pie": ["Pecan pie made with #pecans# instead of pecans", "Pecan pie made with #golden syrup# instead of golden syrup", "Pecan pie made with #flour# instead of flour", "Pecan pie made with #eggs# instead of eggs"],
+
+"Petit fours": ["Petit fours made with #sugar# instead of sugar", "Petit fours made with #butter# instead of butter", "Petit fours made with #flour# instead of flour", "Petit fours made with #eggs# instead of eggs"],
+
+"Poire belle Helene": ["Poire belle Helene made with #pears# instead of pears", "Poire belle Helene made with #sugar# instead of sugar", "Poire belle Helene made with #lemon juice# instead of lemon juice", "Poire belle Helene made with #vanilla essence# instead of vanilla essence", "Poire belle Helene made with #chocolate# instead of chocolate", "Poire belle Helene made with #heavy cream# instead of heavy cream"],
+
+"Pound cake": ["Pound cake made with #butter# instead of butter", "Pound cake made with #sugar# instead of sugar", "Pound cake made with #eggs# instead of eggs", "Pound cake made with #flour# instead of flour", "Pound cake made with #vanilla essence# instead of vanilla essence"],
+
+"Prinzregententorte": ["Prinzregententorte made with #chocolate# instead of chocolate", "Prinzregententorte made with #buttercream# instead of buttercream", "Prinzregententorte made with #apricot jam# instead of apricot jam", "Prinzregententorte made with #flour# instead of flour", "Prinzregententorte made with #eggs# instead of eggs", "Prinzregententorte made with #sugar# instead of sugar"],
+
+"Profiteroles and chocolate sauce": ["Profiteroles and chocolate sauce made with #flour# instead of flour", "Profiteroles and chocolate sauce made with #eggs# instead of eggs", "Profiteroles and chocolate sauce made with #butter# instead of butter", "Profiteroles and chocolate sauce made with #heavy cream# instead of heavy cream", "Profiteroles and chocolate sauce made with #chocolate# instead of chocolate"],
+
+"Pumpkin pie": ["Pumpkin pie made with #pumpkin# instead of pumpkin", "Pumpkin pie made with #cinnamon# instead of cinnamon", "Pumpkin pie made with #eggs# instead of eggs", "Pumpkin pie made with #milk# instead of milk", "Pumpkin pie made with #flour# instead of flour"],
+
+"Punschkrapfen": ["Punschkrapfen made with #orange zest# instead of orange zest", "Punschkrapfen made with #rum# instead of rum", "Punschkrapfen made with #apricot jam# instead of apricot jam", "Punschkrapfen made with #chocolate# instead of chocolate", "Punschkrapfen made with #butter# instead of butter", "Punschkrapfen made with #flour# instead of flour"],
+
+"Red velvet cake": ["Red velvet cake made with #chocolate# instead of chocolate", "Red velvet cake made with #cocoa powder# instead of cocoa powder", "Red velvet cake made with #beetroot juice# instead of beetroot juice", "Red velvet cake made with #eggs# instead of eggs", "Red velvet cake made with #vanilla essence# instead of vanilla essence", "Red velvet cake made with #sugar# instead of sugar"],
+
+"Rice Krispie cakes": ["Rice Krispie cakes made with #Rice Krispies# instead of Rice Krispies", "Rice Krispie cakes made with #chocolate# instead of chocolate"],
+
+"Rice pudding": ["Rice pudding made with #white rice# instead of white rice", "Rice pudding made with #milk# instead of milk", "Rice pudding made with #sugar# instead of sugar", "Rice pudding made with #cinnamon# instead of cinnamon"],
+
+"Rock cakes": ["Rock cakes made with #butter# instead of butter", "Rock cakes made with #milk# instead of milk", "Rock cakes made with #sugar# instead of sugar", "Rock cakes made with #eggs# instead of eggs", "Rock cakes made with #raisins# instead of raisins"],
+
+"Rocky road": ["Rocky road made with #chocolate# instead of chocolate", "Rocky road made with #golden syrup# instead of golden syrup", "Rocky road made with #cocoa powder# instead of cocoa powder", "Rocky road made with #mini marshmallows# instead of mini marshmallows", "Rocky road made with #biscuit crumbs# instead of biscuit crumbs"],
+
+"Rum baba": ["Rum baba made with #eggs# instead of eggs", "Rum baba made with #butter# instead of butter", "Rum baba made with #rum# instead of rum", "Rum baba made with #heavy cream# instead of heavy cream", "Rum baba made with #vanilla essence# instead of vanilla essence"],
+
+"Rum cake": ["Rum cake made with #rum# instead of rum", "Rum cake made with #eggs# instead of eggs", "Rum cake made with #flour# instead of flour", "Rum cake made with #butter# instead of butter", "Rum cake made with #chopped walnuts# instead of chopped walnuts"],
+
+"Sachertorte": ["Sachertorte made with #apricot jam# instead of apricot jam", "Sachertorte made with #chocolate# instead of chocolate", "Sachertorte made with #ground almonds# instead of ground almonds", "Sachertorte made with #flour# instead of flour", "Sachertorte made with #vanilla essence# instead of vanilla essence"],
+
+"Sesame seed cake": ["Sesame seed cake made with #sesame seeds# instead of sesame seeds", "Sesame seed cake made with #sugar# instead of sugar", "Sesame seed cake made with #eggs# instead of eggs", "Sesame seed cake made with #flour# instead of flour"],
+
+"Shoofly pie": ["Shoofly pie made with #brown sugar# instead of brown sugar", "Shoofly pie made with #molasses# instead of molasses", "Shoofly pie made with #lard# instead of lard", "Shoofly pie made with #flour# instead of flour", "Shoofly pie made with #vanilla essence# instead of vanilla essence", "Shoofly pie made with #butter# instead of butter"],
+
+"Simnel cake": ["Simnel cake made with #cherries# instead of cherries", "Simnel cake made with #butter# instead of butter", "Simnel cake made with #brown sugar# instead of brown sugar", "Simnel cake made with #sultanas# instead of sultanas", "Simnel cake made with #orange zest# instead of orange zest", "Simnel cake made with #marzipan# instead of marzipan", "Simnel cake made with #apricot jam# instead of apricot jam"],
+
+"Snickers cake": ["Snickers cake made with #peanuts# instead of peanuts", "Snickers cake made with #marshmallow fluff# instead of marshmallow fluff", "Snickers cake made with #peanut butter# instead of peanut butter", "Snickers cake made with #condensed milk# instead of condensed milk", "Snickers cake made with #heavy cream# instead of heavy cream"],
+
+"Spice cake": ["Spice cake made with #ground ginger# instead of ground ginger", "Spice cake made with #ground cloves# instead of ground cloves", "Spice cake made with #cinnamon# instead of cinnamon", "Spice cake made with #flour# instead of flour", "Spice cake made with #eggs# instead of eggs", "Spice cake made with #milk# instead of milk", "Spice cake made with #butter# instead of butter"],
+
+"Sponge cake": ["Sponge cake made with #milk# instead of milk", "Sponge cake made with #eggs# instead of eggs", "Sponge cake made with #flour# instead of flour", "Sponge cake made with #sugar# instead of sugar", "Sponge cake made with #vanilla essence# instead of vanilla essence"],
+
+"Stollen cake": ["Stollen cake made with #ground nutmeg# instead of ground nutmeg", "Stollen cake made with #ground cloves# instead of ground cloves", "Stollen cake made with #marzipan# instead of marzipan", "Stollen cake made with #raisins# instead of raisins", "Stollen cake made with #flour# instead of flour", "Stollen cake made with #butter# instead of butter"],
+
+"Strawberry cheesecake": ["Strawberry cheesecake made with #strawberries# instead of strawberries", "Strawberry cheesecake made with #cream cheese# instead of cream cheese", "Strawberry cheesecake made with #biscuit crumbs# instead of biscuit crumbs", "Strawberry cheesecake made with #heavy cream# instead of heavy cream"],
+
+"Strawberry shortcake": ["Strawberry shortcake made with #strawberries# instead of strawberries", "Strawberry shortcake made with #sugar# instead of sugar", "Strawberry shortcake made with #flour# instead of flour", "Strawberry shortcake made with #butter# instead of butter"],
+
+"Streuselkuchen": ["Streuselkuchen made with #chopped walnuts# instead of chopped walnuts", "Streuselkuchen made with #cinnamon# instead of cinnamon", "Streuselkuchen made with #ground cloves# instead of ground cloves", "Streuselkuchen made with #butter# instead of butter", "Streuselkuchen made with #cornstarch# instead of cornstarch"],
+
+"Swiss roll": ["Swiss roll made with #flour# instead of flour", "Swiss roll made with #eggs# instead of eggs", "Swiss roll made with #butter# instead of butter", "Swiss roll made with #heavy cream# instead of heavy cream", "Swiss roll made with #chocolate# instead of chocolate"],
+
+"Tarta de Santiago": ["Tarta de Santiago made with #almonds# instead of almonds", "Tarta de Santiago made with #eggs# instead of eggs", "Tarta de Santiago made with #milk# instead of milk", "Tarta de Santiago made with #sugar# instead of sugar", "Tarta de Santiago made with #flour# instead of flour", "Tarta de Santiago made with #lemon zest# instead of lemon zest", "Tarta de Santiago made with #orange zest# instead of orange zest"],
+
+"Tarte Tatin": ["Tarte Tatin made with #apples# instead of apples", "Tarte Tatin made with #butter# instead of butter", "Tarte Tatin made with #egg yolks# instead of egg yolks", "Tarte Tatin made with #flour# instead of flour"],
+
+"Tartufo": ["Tartufo made with #heavy cream# instead of heavy cream", "Tartufo made with #chocolate cookie crumbs# instead of chocolate cookie crumbs", "Tartufo made with #cherries# instead of cherries", "Tartufo made with #chocolate# instead of chocolate"],
+
+"Chocolate marshmallow tea cakes": ["Chocolate marshmallow tea cakes made with #dark chocolate# instead of dark chocolate", "Chocolate marshmallow tea cakes made with #egg whites# instead of egg whites", "Chocolate marshmallow tea cakes made with #biscuit crumbs# instead of biscuit crumbs", "Chocolate marshmallow tea cakes made with #golden syrup# instead of golden syrup"],
+
+"Tea loaf": ["Tea loaf made with #sultanas# instead of sultanas", "Tea loaf made with #brown sugar# instead of brown sugar", "Tea loaf made with #orange juice# instead of orange juice", "Tea loaf made with #hot tea# instead of hot tea", "Tea loaf made with #flour# instead of flour", "Tea loaf made with #butter# instead of butter"],
+
+"Tin roof pie": ["Tin roof pie made with #corn flakes# instead of corn flakes", "Tin roof pie made with #golden syrup# instead of golden syrup", "Tin roof pie made with #peanuts# instead of peanuts", "Tin roof pie made with #ice cream# instead of ice cream"],
+
+"Tipsy cake": ["Tipsy cake made with #cornstarch# instead of cornstarch", "Tipsy cake made with #egg yolks# instead of egg yolks", "Tipsy cake made with #heavy cream# instead of heavy cream", "Tipsy cake made with #brandy# instead of brandy", "Tipsy cake made with #flour# instead of flour"],
+
+"Tiramisu": ["Tiramisu made with #Marsala wine# instead of Marsala wine", "Tiramisu made with #mascarpone cheese# instead of mascarpone cheese", "Tiramisu made with #dark chocolate# instead of dark chocolate", "Tiramisu made with #cocoa powder# instead of cocoa powder", "Tiramisu made with #coffee powder# instead of coffee powder", "Tiramisu made with #sponge fingers# instead of sponge fingers"],
+
+"Torta caprese": ["Torta caprese made with #dark chocolate# instead of dark chocolate", "Torta caprese made with #almond essence# instead of almond essence", "Torta caprese made with #ground hazelnuts# instead of ground hazelnuts", "Torta caprese made with #ground almonds# instead of ground almonds", "Torta caprese made with #liquore strega# instead of liquore strega"],
+
+"Torta de nata": ["Torta de nata made with #hot milk# instead of hot milk", "Torta de nata made with #sugar# instead of sugar", "Torta de nata made with #eggs# instead of eggs"],
+
+"Treacle tart": ["Treacle tart made with #golden syrup# instead of golden syrup", "Treacle tart made with #lemon zest# instead of lemon zest", "Treacle tart made with #butter# instead of butter", "Treacle tart made with #flour# instead of flour"],
+
+"Tres leches cake": ["Tres leches cake made with #whipped cream# instead of whipped cream", "Tres leches cake made with #condensed milk# instead of condensed milk", "Tres leches cake made with #milk# instead of milk", "Tres leches cake made with #vanilla essence# instead of vanilla essence", "Tres leches cake made with #flour# instead of flour"],
+
+"Pineapple upside-down cake": ["Pineapple upside-down cake made with #pineapple rings# instead of pineapple rings", "Pineapple upside-down cake made with #brown sugar# instead of brown sugar", "Pineapple upside-down cake made with #vanilla essence# instead of vanilla essence", "Pineapple upside-down cake made with #eggs# instead of eggs", "Pineapple upside-down cake made with #flour# instead of flour"],
+
+"Vanilla cupcakes": ["Vanilla cupcakes made with #butter# instead of butter", "Vanilla cupcakes made with #icing sugar# instead of icing sugar", "Vanilla cupcakes made with #vanilla essence# instead of vanilla essence", "Vanilla cupcakes made with #buttercream# instead of buttercream", "Vanilla cupcakes made with #flour# instead of flour", "Vanilla cupcakes made with #eggs# instead of eggs"],
+
+"Apple Strudel": ["Apple Strudel made with #puff pastry# instead of puff pastry", "Apple Strudel made with #apples# instead of apples", "Apple Strudel made with #cinnamon# instead of cinnamon", "Apple Strudel made with #orange zest# instead of orange zest", "Apple Strudel made with #nutmeg# instead of nutmeg", "Apple Strudel made with #sultanas# instead of sultanas", "Apple Strudel made with #breadcrumbs# instead of breadcrumbs"],
+
+"Vinegar pie": ["Vinegar pie made with #egg yolks# instead of egg yolks", "Vinegar pie made with #egg whites# instead of egg whites", "Vinegar pie made with #lemon juice# instead of lemon juice", "Vinegar pie made with #vinegar# instead of vinegar", "Vinegar pie made with #flour# instead of flour", "Vinegar pie made with #butter# instead of butter"],
+
+"Vanilla wafer cake": ["Vanilla wafer cake made with #shredded coconut# instead of shredded coconut", "Vanilla wafer cake made with #flour# instead of flour", "Vanilla wafer cake made with #milk# instead of milk", "Vanilla wafer cake made with #eggs# instead of eggs", "Vanilla wafer cake made with #sugar# instead of sugar", "Vanilla wafer cake made with #chopped pecans# instead of chopped pecans", "Vanilla wafer cake made with #vanilla essence# instead of vanilla essence"],
+
+"Walnut cake": ["Walnut cake made with #walnut halves# instead of walnut halves", "Walnut cake made with #eggs# instead of eggs", "Walnut cake made with #butter# instead of butter", "Walnut cake made with #flour# instead of flour", "Walnut cake made with #sugar# instead of sugar", "Walnut cake made with #chopped walnuts# instead of chopped walnuts", "Walnut cake made with #vanilla essence# instead of vanilla essence", "Walnut cake made with #icing sugar# instead of icing sugar"],
+
+"White sugar sponge cake": ["White sugar sponge cake made with #rice flour# instead of rice flour", "White sugar sponge cake made with #white sugar# instead of white sugar", "White sugar sponge cake made with #baker's yeast# instead of baker's yeast"],
+
+"Yule log": ["Yule log made with #egg yolks# instead of egg yolks", "Yule log made with #egg whites# instead of egg whites", "Yule log made with #cocoa powder# instead of cocoa powder", "Yule log made with #vanilla essence# instead of vanilla essence", "Yule log made with #chocolate# instead of chocolate"],
+
+"Zabaione": ["Zabaione made with #egg yolks# instead of egg yolks", "Zabaione made with #Marsala wine# instead of Marsala wine", "Zabaione made with #white sugar# instead of white sugar"],
+
+"Mille feuille vanilla cake": ["Mille feuille vanilla cake made with #puff pastry# instead of puff pastry", "Mille feuille vanilla cake made with #egg yolks# instead of egg yolks", "Mille feuille vanilla cake made with #vanilla essence# instead of vanilla essence", "Mille feuille vanilla cake made with #cream# instead of cream", "Mille feuille vanilla cake made with #icing sugar# instead of icing sugar"],
+
+"Raspberry mille-feuille": ["Raspberry mille-feuille made with #raspberries# instead of raspberries", "Raspberry mille-feuille made with #puff pastry# instead of puff pastry", "Raspberry mille-feuille made with #egg yolks# instead of egg yolks", "Raspberry mille-feuille made with #cream# instead of cream", "Raspberry mille-feuille made with #icing sugar# instead of icing sugar"],
+
+"flour": ["gypsum", "cement", "road grit", "powdered bones", "baby powder", "uncut heroin", "papier maché", "chalk dust", "powdered bat guano", "talcum powder", "powdered soap", "ashes of a cremated loved one", "radioactive desert sand", "granite dust", "flea powder", "Shake-n-Vac", "coffin dust"],
+
+"sugar": ["broken glass", "powdered glass", "pebble dash", "rock salt", "road grit", "powdered crystal meth", "frog spawn", "anthrax spores"],
+
+"eggs": ["snake embryos", "burst eyeballs", "pickled goat's eyes", "rotten eggs"],
+
+"butter": ["yellow paint", "rancid butter", "liposuctioned fat", "cow's ear wax", "hamburger helper", "whale blubber", "pond scum", "melted plastic"],
+
+"milk": ["white paint", "white-out fluid", "milk of Magnesia", "wood glue", "shampoo", "baby vomit", "camel drool", "rat milk", "sheep dip", "industrial effluent"],
+
+"vanilla essence": ["arsenic", "cyanide powder", "cheap aftershave", "crushed laxatives", "ant eggs", "flop sweat", "mildew", "Polonium-210", "Febreze", "armpit sweat"],
+
+"chocolate": ["roofing tar", "melted tarmac", "hot tar", "elephant dung", "lumps of clay", "swamp mud", "diaper filling", "used coffee grounds", "shoe polish"],
+
+"heavy cream": ["plaster of Paris", "tiling grout", "yellow snow", "wallpaper paste", "year-old crusty mayonnaise", "hemorrhoid cream", "drain cleaner", "whale blubber", "liposuction fat", "lumpy white paint"],
+
+"cocoa powder": ["dirt", "fistfuls of earth", "toxic sludge", "India ink", "soot", "Shake-and-Vac"],
+
+"egg yolks": ["melted pingpong balls", "yellow golfballs", "zit pus"],
+
+"cinnamon": ["brick dust", "rat droppings", "fire ants", "cobwebs"],
+
+"egg whites": ["chicken drool", "cow's saliva", "eyeball jelly", "frog spawn", "liquid detergent", "denture glue", "pond scum", "liposuction fat"],
+
+"orange zest": ["tennis-ball fluff", "sunburnt skin flakes", "sunburnt cellulite", "congealed fake tan", "fake tan and cellulite", "bellybutton lint"],
+
+"golden syrup": ["dog phlegm", "cat vomit", "wood varnish", "floor polish"],
+
+"brown sugar": ["used kitty litter", "crushed gravel"],
+
+"ground ginger": ["skunk musk", "toenail clippings", "fingernail clippings", "eye crud", "clown dandruff", "foot fungus", "concentrated wasabi", "pet kibble"],
+
+"apples": ["wax apples", "green tennis balls", "apple cores", "snooker balls", "worm-filled apples"],
+
+"lemon zest": ["canary droppings", "ear wax", "yellow paint scrapings", "lemon-scented air freshener"],
+
+"sultanas": ["cod-liver oil capsules", "moth balls", "used suppositories", "pus-filled zits", "sour grapes", "bubblewrap"],
+
+"almonds": ["false fingernails", "broken teeth", "snake fangs", "pistachio shells", "snake scales", "small-caliber bullets", "date pits", "olive pits"],
+
+"icing sugar": ["powdered glass", "dandruff", "hobo dandruff", "anthrax"],
+
+"lemon juice": ["battery acid", "acetone", "cat pee", "napalm", "mouthwash"],
+
+"chocolate chips": ["dead flies", "rat droppings"],
+
+"rum": ["gasoline", "kerosene", "paint stripper", "pickled pirate blood", "lighter fluid", "bug spray", "paint thinner", "diesel"],
+
+"cherries": ["cherry bombs", "red ball-bearings"],
+
+"cornstarch": ["washing powder", "laundry starch"],
+
+"coffee powder": ["black bile", "brown shoe polish", "rust flakes", "weasel skat", "mahogany dust", "baked-in oven grease"],
+
+"raisins": ["dead flies", "fish eyes", "cancerous polyps", "witch's warts", "spit balls"],
+
+"bananas": ["wax bananas", "banana skins", "pickled parsnips", "used banana-hammock thongs", "yellow umbrella handles"],
+
+"ground almonds": ["sawdust", "minced garlic", "ground tree bark"],
+
+"baking powder": ["gunpowder", "talcum powder", "borax powder", "rat poison", "anthrax"],
+
+"cream": ["toothpaste", "rabid dog froth", "shampoo", "oven cleaner"],
+
+"pecans": ["dried cockroaches", "crusty scabs", "broken teeth"],
+
+"shredded coconut": ["dandruff", "eczema flakes", "asbestos"],
+
+"biscuit crumbs": ["chewed dog biscuits", "polystyrene flakes", "cement dust", "pot pouri"],
+
+"dark chocolate": ["black shoe polish", "shredded tyres"],
+
+"blueberries": ["thumb tacks", "balls of blue tack", "poison ivy berries", "juicy melanomas"],
+
+"marzipan": ["wet urinal cakes", "C4 plastique", "play dough", "foot cheese"],
+
+"condensed milk": ["sun tan lotion", "wood glue", "hair cream", "car polish", "rubber cement", "acne cream"],
+
+"ice cream": ["muddy slush", "frozen mud", "frozen dog turds"],
+
+"ground cloves": ["bloody boogers", "plastic shavings", "iron shavings", "burnt toenail clippings"],
+
+"jam": ["congealed blood", "arterial blood", "bloody stools", "boiled lip gloss", "red-hot Tabasco", "nail polish"],
+
+"apricot jam": ["cat vomit", "road pizza", "axle grease", "snail slime"],
+
+"bread slices": ["ceiling tiles", "sanitory pads", "attic insulation", "burnt toast", "wet toilet paper", "roof shingles", "paving slabs", "dirty socks"],
+
+"orange juice": ["battery acid", "golden retriever pee", "orangutan pee", "horse linament", "sun tan oil", "swamp water", "agent orange", "orangutan sweat"],
+
+"cream cheese": ["foot cheese", "ear wax", "liposuctioned fat", "sweaty cheese", "volcanic lava", "window putty"],
+
+"nutmeg": ["mouse droppings", "wood shavings"],
+
+"buttercream": ["acne cream", "drain cleaner"],
+
+"chopped walnuts": ["broken walnut shells", "candied rabbit brain"],
+
+"puff pastry": ["fried diapers", "deep-fried duvet", "odour-eater insoles", "wet corrugated cardboard"],
+
+"chocolate ganache": ["diaper filling", "sewer sludge", "melted tyre rubber", "creosote"],
+
+"hazelnuts": ["gallstones", "kidney stones", "brown pebbles", "gizzard stones"],
+
+"brandy": ["window cleaner", "weed killer", "hobo sweat", "distilled wino blood", "nail polish remover"],
+
+"sesame seeds": ["spider eggs", "pine needles", "wasp stingers", "red-hot chili seeds"],
+
+"currants": ["Bubonic pustules", "blackheads", "red-hot chillies"],
+
+"crumbs": ["floor sweepings", "garden mulch", "cigarette ash"],
+
+"chopped pecans": ["brass screws", "seashells"],
+
+"buttermilk": ["albino saliva"],
+
+"hot milk": ["wet guano", "baby vomit"],
+
+"vegetable oil": ["hair oil", "hog sweat"],
+
+"lard": ["liposuctioned fat", "rendered human fat"],
+
+"whipped cream": ["shaving foam", "whale blubber"],
+
+"molasses": ["creosote", "motor oil"],
+
+"peanut butter": ["wet parrot droppings", "wet sawdust"],
+
+"pears": ["avocado husks"],
+
+"starch syrup": ["superglue"],
+
+"peanuts": ["cherry pits"],
+
+"strawberries": ["chicken hearts"],
+
+"Marsala wine": ["Italian rubbing alcohol", "cheap cough medicine"],
+
+"sponge": ["mattress filling", "odour-eater insoles", "sanitary towels"],
+
+"white sugar": ["bath salts"],
+
+"meringue": ["used Kleenex", "diaper padding", "sanitary pads", "mattress stuffing", "used Kleenex from a teenager's bedroom"],
+
+"toasted nuts": ["metal nuts and bolts", "rusty staples", "red-hot chili seeds"],
+
+"chocolate buttons": ["brown metal buttons"],
+
+"vanilla ice cream": ["scoops of yellow snow"],
+
+"dried cherries": ["cherry pits", "date pits"],
+
+"crushed pineapple": ["crushed urinal cakes"],
+
+"dried cranberries": ["bloody warts"],
+
+"chocolate sauce": ["wet soot", "motor oil"],
+
+"gelatin": ["human bone marrow", "superglue", "silicone breast implants", "man-o-war jellyfish", "ectoplasm"],
+
+"chocolate fondant": ["volcanic lava"],
+
+"ricotta cheese": ["whale blubber", "drywall lining"],
+
+"chocolate curls": ["mahogany shavings", "rusty staples"],
+
+"citrus oil": ["bug spray", "air freshener spray", "Prussic acid"],
+
+"almond paste": ["crushed peach pits"],
+
+"toffee": ["wood glue", "congealed wood varnish"],
+
+"kirsch": ["WD40"],
+
+"saltines": ["sardines"],
+
+"wafers": ["corrugated cardboard", "index cards"],
+
+"Nutella": ["used hair-removal wax", "melted vinyl", "window putty"],
+
+"rye flour": ["tree moss"],
+
+"honey": ["bear drool"],
+
+"coconut milk": ["SPF-50 suntan lotion"],
+
+"pandan leaves": ["oily rags"],
+
+"fresh mint": ["nettles", "poison ivy"],
+
+"liqueur": ["expensive lighter fluid"],
+
+"cornflour": ["anthrax spores"],
+
+"peaches": ["peach pits", "tennis balls"],
+
+"cool whip": ["Silicone Mastic"],
+
+"cherry liqueur": ["German lighter fluid", "boiled lipgloss"],
+
+"Grand Marnier": ["flop sweat of a French hobo", "agent orange", "orangutan sweat"],
+
+"pumpkin": ["old leather football", "football helmet"],
+
+"beetroot juice": ["the blood of a loved one", "boiled lipgloss"],
+
+"Rice Krispies": ["fried ant eggs", "bubblewrap", "gravel"],
+
+"white rice": ["ricin", "ant eggs"],
+
+"mini marshmallows": ["cotton balls", "the tops of Q-tips", "coughed-up hairballs", "dust bunnies", "bubblewrap"],
+
+"caraway seeds": ["cherry pits", "iron filings"],
+
+"custard": ["melted plastic", "volcanic lava", "melted traffic cones"],
+
+"marshmallow fluff": ["cotton wool", "shredded plastic", "dust bunnies", "coughed-up hairballs"],
+
+"ground nutmeg": ["rust flakes", "iron filings"],
+
+"chocolate cookie crumbs": ["dead ants", "dead termites", "dirt"],
+
+"hot tea": ["warm horse urine"],
+
+"corn flakes": ["soda-can ring pulls"],
+
+"choux pastry": ["shoe leather", "scrotal sac skin"],
+
+"mascarpone cheese": ["polyfilla plaster", "spackle", "mattress foam", "liposuction fat"],
+
+"sponge fingers": ["the fingers of real ladies", "dead man's fingers", "puppy's tails"],
+
+"almond essence": ["Prussic acid", "floor polish"],
+
+"ground hazelnuts": ["sawdust", "ground tree bark"],
+
+"liquore strega": ["Italian rubbing alcohol", "Italian lighter fluid"],
+
+"pineapple rings": ["curtain rings", "napkin rings"],
+
+"no flour": ["strong flour"],
+
+"breadcrumbs": ["sawdust", "ground tree bark"],
+
+"vinegar": ["battery acid", "molecular acid", "cat pee", "sulphuric acid"],
+
+"walnut halves": ["candied rabbit brains"],
+
+"rice flour": ["powdered ricin", "anthrax spores"],
+
+"shredded carrots": ["rabbit droppings"],
+
+"baker's yeast": ["gunpowder", "flesh-eating bacteria"],
+
+"raspberries": ["poison ivy berries", "cherry bombs", "moth balls"]
+
+}
