@@ -1,0 +1,617 @@
+{
+   "habitat_A":	["#aardvark#", "#albino_gorilla#", "#alligator#", "#anglerfish#", "#arctic_fox#", "#ass#", "#badger#", "#barracuda#", "#bat#", "#bear#", "#beaver#", "#bee#", "#black_cat#", "#black_widow#", "#blowfish#", "#boar#", "#bonobo#", "#border_collie#", "#box_jellyfish#", "#bull#", "#butterfly#", "#cane_toad#", "#cat#", "#chattering_monkey#", "#chicken#", "#chimp#", "#chipmunk#", "#circus_chimp#", "#circus_lion#", "#clownfish#", "#cockatoo#", "#cockerel#", "#cold_fish#", "#corgi#", "#coyote#", "#cricket#", "#crow#", "#cuttlefish#", "#dingo#", "#dog#", "#donkey#", "#drone_fly#", "#dung_beetle#", "#eel#", "#elephant_seal#", "#fawn#", "#fire_ant#", "#flatworm#", "#flying_snake#", "#fox#", "#gadfly#", "#gazelle#", "#gerbil#", "#gibbon#", "#gnat#", "#goldfish#", "#gorilla#", "#grasshopper#", "#guard_dog#", "#guinea_pig#", "#hagfish#", "#hare#", "#hedgehog#", "#hippopotamus#", "#honey_badger#", "#hornet#", "#horse#", "#hummingbird#", "#hyena#", "#icefish#", "#jackass#", "#jaguar#", "#kangaroo#", "#koala#", "#kookaburra#", "#lamb#", "#lapdog#", "#leech#", "#lemur#", "#lion#", "#locust#", "#louse#", "#macaque#", "#magpie#", "#mimic_octopus#", "#mockingbird#", "#mole_rat#", "#moose#", "#mountain_goat#", "#mule#", "#narwhal#", "#octopus#", "#orca#", "#otter#", "#ox#", "#panda#", "#parasite#", "#peacock#", "#penguin#", "#pig#", "#piranha#", "#pitbull#", "#polar_bear#", "#porcupine#", "#praying_mantis#", "#puppy#", "#rabbit#", "#racehorse#", "#rat#", "#raven#", "#rescue_dog#", "#rhino#", "#rooster#", "#Russian_bear#", "#Saint_Bernard#", "#scorpion#", "#seahorse#", "#serpent#", "#shark#", "#show_dog#", "#shrew#", "#skunk#", "#snail#", "#snapping_turtle#", "#soldier_ant#", "#spider#", "#spotted_hyena#", "#squirrel#", "#starfish#", "#stoat#", "#stunt_dog#", "#swan#", "#tarantula#", "#Tasmanian_devil#", "#terrier#", "#tiger#", "#tortoise#", "#tree_frog#", "#tree_sloth#", "#turtle#", "#vampire_bat#", "#Venus_flytrap#", "#viper#", "#walrus#", "#wasp#", "#water_snake#", "#white_tiger#", "#wolf#", "#wolverine#", "#woodpecker#", "#worker_bee#", "#yeti#"],
+
+
+   "habitat_B":	["#African_claw_frog#", "#alley_cat#", "#angelfish#", "#ant#", "#armadillo#", "#baboon#", "#bald_eagle#", "#basset_hound#", "#beagle#", "#bear_cub#", "#bedbug#", "#billy_goat#", "#black_panther#", "#blobfish#", "#blue_whale#", "#bobcat#", "#booklouse#", "#bowerbird#", "#buffalo#", "#bumblebee#", "#camel#", "#capuchin_monkey#", "#chameleon#", "#cheetah#", "#chihuahua#", "#chimpanzee#", "#cicada#", "#circus_elephant#", "#circus_monkey#", "#cobra#", "#cocker_spaniel#", "#cockroach#", "#coral_snake#", "#cow#", "#crab#", "#crocodile#", "#cuckoo#", "#deer#", "#dodo#", "#dolphin#", "#dove#", "#duck#", "#eagle#", "#elephant#", "#falcon#", "#ferret#", "#flamingo#", "#flea#", "#flying_squirrel#", "#fruit_bat#", "#gamecock#", "#gelding#", "#giant_squid#", "#giraffe#", "#goat#", "#goose#", "#goshawk#", "#grizzly#", "#guide_dog#", "#gull#", "#hamster#", "#hawk#", "#hermit_crab#", "#hog#", "#honey_bee#", "#horny_toad#", "#howler_monkey#", "#humpback_whale#", "#ibis#", "#jackal#", "#jackrabbit#", "#jellyfish#", "#kitten#", "#komodo_dragon#", "#lab_rat#", "#lamprey#", "#lark#", "#lemming#", "#leopard#", "#lizard#", "#lone_wolf#", "#lovebird#", "#macaw#", "#meerkat#", "#minnow#", "#mole#", "#monkey#", "#mosquito#", "#mouse#", "#nanny_goat#", "#nightingale#", "#orangutan#", "#ostrich#", "#owl#", "#pack_rat#", "#panther#", "#parrot#", "#pelican#", "#pheasant#", "#pigeon#", "#pit_viper#", "#platypus#", "#poodle#", "#possum#", "#puma#", "#queen_bee#", "#raccoon#", "#ram#", "#rattlesnake#", "#red_panda#", "#rhesus_monkey#", "#rogue_elephant#", "#Rottweiler#", "#sacred_cow#", "#salamander#", "#sea_sponge#", "#Seaworld_whale#", "#sewer_rat#", "#sheep#", "#show_horse#", "#silverback#", "#slug#", "#snake#", "#snow_leopard#", "#songbird#", "#spider_monkey#", "#squid#", "#stallion#", "#stick_insect#", "#stray_dog#", "#swallow#", "#swine#", "#tarsier#", "#termite#", "#tick#", "#toad#", "#toy_poodle#", "#tree_shrew#", "#turkey#", "#unicorn#", "#vampire_finch#", "#vervet_monkey#", "#vulture#", "#warthog#", "#watchdog#", "#weasel#", "#wild_boar#", "#wolf_fish#", "#wombat#", "#worker_ant#", "#worm#"],
+
+
+   "aardvark":	["Sniffing Aardvark"],
+
+   "African_claw_frog":	["Croaking African Claw Frog"],
+
+   "albino_gorilla":	["Gibbering Albino Gorilla"],
+
+   "alley_cat":	["Purring Alley Cat"],
+
+   "alligator":	["Rumbling Alligator"],
+
+   "angelfish":	["Sputtering Angelfish"],
+
+   "anglerfish":	["Sputtering Anglerfish"],
+
+   "ant":	["Squeeking Ant"],
+
+   "arctic_fox":	["Barking Arctic Fox", "Howling Arctic Fox"],
+
+   "armadillo":	["Grunting Armadillo"],
+
+   "ass":	["Braying Ass"],
+
+   "baboon":	["Babbling Baboon"],
+
+   "badger":	["Churring Badger", "Chittering Badger", "Growling Badger"],
+
+   "bald_eagle":	["Whistling Bald Eagle"],
+
+   "barracuda":	["Sputtering Barracuda"],
+
+   "basset_hound":	["Baying Basset Hound"],
+
+   "bat":	["Screeching Bat"],
+
+   "beagle":	["Baying Beagle"],
+
+   "bear":	["Growling Bear"],
+
+   "bear_cub":	["Huffing Bear Cub"],
+
+   "beaver":	["Snorting Beaver", "Churring Beaver", "Mumbling Beaver", "Whining Beaver"],
+
+   "bedbug":	["Chirruping Bedbug"],
+
+   "bee":	["Humming Bee", "Buzzing Bee"],
+
+   "billy_goat":	["Bleating Billy Goat"],
+
+   "black_cat":	["Purring Black Cat"],
+
+   "black_panther":	["Snarling Black Panther"],
+
+   "black_widow":	["Chittering Black Widow"],
+
+   "blobfish":	["Hissing Blobfish", "Oozing Blobfish"],
+
+   "blowfish":	["Hissing Blowfish"],
+
+   "blue_whale":	["Saing Blue Whale"],
+
+   "boar":	["Snorting Boar", "Grunting Boar"],
+
+   "bobcat":	["Snarling Bobcat", "Purring Bobcat"],
+
+   "bonobo":	["Peeping Bonobo"],
+
+   "booklouse":	["Chittering Booklouse"],
+
+   "border_collie":	["Barking Border Collie"],
+
+   "bowerbird":	["Chirping Bowerbird", "Tweeting Bowerbird"],
+
+   "box_jellyfish":	["Oozing Box Jellyfish"],
+
+   "buffalo":	["Snorting Buffalo"],
+
+   "bull":	["Snorting Bull", "Grunting Bull"],
+
+   "bumblebee":	["Buzzing Bumblebee", "Humming Bumblebee"],
+
+   "butterfly":	["Chirruping Butterfly"],
+
+   "camel":	["Sping Camel"],
+
+   "cane_toad":	["Croaking Cane Toad"],
+
+   "capuchin_monkey":	["Hooting Capuchin Monkey"],
+
+   "cat":	["Purring Cat", "Meowing Cat"],
+
+   "chameleon":	["Hissing Chameleon"],
+
+   "chattering_monkey":	["Chattering Chattering Monkey"],
+
+   "cheetah":	["Purring Cheetah"],
+
+   "chicken":	["Clucking Chicken", "Cackling Chicken"],
+
+   "chihuahua":	["Trilling Chihuahua"],
+
+   "chimp":	["Hooting Chimp", "Panting Chimp"],
+
+   "chimpanzee":	["Hooting Chimpanzee", "Panting Chimpanzee"],
+
+   "chipmunk":	["Chirping Chipmunk"],
+
+   "cicada":	["Chirping Cicada"],
+
+   "circus_chimp":	["Hooting Circus Chimp", "Panting Circus Chimp"],
+
+   "circus_elephant":	["Trumpeting Circus Elephant"],
+
+   "circus_lion":	["Roaring Circus Lion", "Growling Circus Lion"],
+
+   "circus_monkey":	["Hooting Circus Monkey"],
+
+   "clownfish":	["Sputtering Clownfish"],
+
+   "cobra":	["Hissing Cobra", "Sping Cobra"],
+
+   "cockatoo":	["Cawing Cockatoo", "Grating Cockatoo"],
+
+   "cocker_spaniel":	["Barking Cocker Spaniel"],
+
+   "cockerel":	["Crowing Cockerel"],
+
+   "cockroach":	["Chittering Cockroach"],
+
+   "cold_fish":	["Sputtering Cold Fish"],
+
+   "coral_snake":	["Hissing Coral Snake"],
+
+   "corgi":	["Barking Corgi"],
+
+   "cow":	["Lowing Cow", "Mooing Cow"],
+
+   "coyote":	["Yapping Coyote", "Yipping Coyote", "Yelping Coyote"],
+
+   "crab":	["Chirping Crab"],
+
+   "cricket":	["Chirping Cricket"],
+
+   "crocodile":	["Rumbling Crocodile"],
+
+   "crow":	["Crowing Crow", "Cawing Crow"],
+
+   "cuckoo":	["Chiming Cuckoo"],
+
+   "cuttlefish":	["Sputtering Cuttlefish"],
+
+   "deer":	["Snorting Deer", "Bleating Deer"],
+
+   "dingo":	["Barking Dingo", "Growling Dingo", "Snorting Dingo"],
+
+   "dodo":	["Cooing Dodo"],
+
+   "dog":	["Barking Dog"],
+
+   "dolphin":	["Clicking Dolphin"],
+
+   "donkey":	["Braying Donkey"],
+
+   "dove":	["Cooing Dove"],
+
+   "drone_fly":	["Buzzing Drone Fly"],
+
+   "duck":	["Quacking Duck"],
+
+   "dung_beetle":	["Chittering Dung Beetle"],
+
+   "eagle":	["Screeching Eagle"],
+
+   "eel":	["Oozing Eel"],
+
+   "elephant":	["Trumpeting Elephant"],
+
+   "elephant_seal":	["Barking Elephant Seal"],
+
+   "falcon":	["Screeching Falcon"],
+
+   "fawn":	["Bleating Fawn"],
+
+   "ferret":	["Whining Ferret", "Whimpering Ferret"],
+
+   "fire_ant":	["Squeeking Fire Ant"],
+
+   "flamingo":	["Gabbling Flamingo", "Honking Flamingo"],
+
+   "flatworm":	["Whispering Flatworm"],
+
+   "flea":	["Whispering Flea"],
+
+   "flying_snake":	["Hissing Flying Snake"],
+
+   "flying_squirrel":	["Chattering Flying Squirrel"],
+
+   "fox":	["Barking Fox", "Howling Fox"],
+
+   "fruit_bat":	["Screeching Fruit Bat"],
+
+   "gadfly":	["Buzzing Gadfly"],
+
+   "gamecock":	["Crowing Gamecock", "Clucking Gamecock"],
+
+   "gazelle":	["Snorting Gazelle"],
+
+   "gelding":	["Neighing Gelding", "Whinnying Gelding", "Nickering Gelding"],
+
+   "gerbil":	["Squeeking Gerbil"],
+
+   "giant_squid":	["Whooshing Giant Squid"],
+
+   "gibbon":	["Gibbering Gibbon"],
+
+   "giraffe":	["Bleating Giraffe"],
+
+   "gnat":	["Buzzing Gnat"],
+
+   "goat":	["Bleating Goat"],
+
+   "goldfish":	["Sputtering Goldfish"],
+
+   "goose":	["Honking Goose"],
+
+   "gorilla":	["Bellowing Gorilla", "Gibbering Gorilla"],
+
+   "goshawk":	["Screeching Goshawk"],
+
+   "grasshopper":	["Chirping Grasshopper"],
+
+   "grizzly":	["Bellowing Grizzly", "Growling Grizzly"],
+
+   "guard_dog":	["Barking Guard Dog", "Growling Guard Dog"],
+
+   "guide_dog":	["Barking Guide Dog"],
+
+   "guinea_pig":	["Squeeking Guinea Pig"],
+
+   "gull":	["Hooting Gull"],
+
+   "hagfish":	["Sputtering Hagfish"],
+
+   "hamster":	["Squeeking Hamster"],
+
+   "hare":	["Squeeking Hare"],
+
+   "hawk":	["Screeching Hawk"],
+
+   "hedgehog":	["Huffing Hedgehog"],
+
+   "hermit_crab":	["Chirping Hermit Crab"],
+
+   "hippopotamus":	["Wheezing Hippopotamus", "Grunting Hippopotamus"],
+
+   "hog":	["Oinking Hog", "Squealing Hog", "Grunting Hog"],
+
+   "honey_badger":	["Churring Honey Badger", "Chittering Honey Badger", "Growling Honey Badger"],
+
+   "honey_bee":	["Buzzing Honey Bee", "Humming Honey Bee"],
+
+   "hornet":	["Buzzing Hornet", "Humming Hornet"],
+
+   "horny_toad":	["Croaking Horny Toad"],
+
+   "horse":	["Neighing Horse", "Whinnying Horse", "Nickering Horse"],
+
+   "howler_monkey":	["Howling Howler Monkey", "Hooting Howler Monkey"],
+
+   "hummingbird":	["Humming Hummingbird"],
+
+   "humpback_whale":	["Saing Humpback Whale"],
+
+   "hyena":	["Laughing Hyena", "Screaming Hyena"],
+
+   "ibis":	["Squealing Ibis"],
+
+   "icefish":	["Sputtering Icefish"],
+
+   "jackal":	["Whining Jackal", "Howling Jackal"],
+
+   "jackass":	["Braying Jackass"],
+
+   "jackrabbit":	["Screaming Jackrabbit"],
+
+   "jaguar":	["Purring Jaguar", "Growling Jaguar"],
+
+   "jellyfish":	["Oozing Jellyfish"],
+
+   "kangaroo":	["Coughing Kangaroo", "Grunting Kangaroo"],
+
+   "kitten":	["Purring Kitten"],
+
+   "koala":	["Wailing Koala"],
+
+   "komodo_dragon":	["Hissing Komodo Dragon"],
+
+   "kookaburra":	["Laughing Kookaburra"],
+
+   "lab_rat":	["Squeeking Lab Rat"],
+
+   "lamb":	["Bleating Lamb", "Baaing Lamb"],
+
+   "lamprey":	["Sputtering Lamprey"],
+
+   "lapdog":	["Barking Lapdog"],
+
+   "lark":	["Warbling Lark"],
+
+   "leech":	["Sucking Leech"],
+
+   "lemming":	["Squeeking Lemming"],
+
+   "lemur":	["Chirping Lemur"],
+
+   "leopard":	["Purring Leopard", "Meowing Leopard", "Snarling Leopard"],
+
+   "lion":	["Chuffing Lion", "Roaring Lion", "Growling Lion"],
+
+   "lizard":	["Hissing Lizard"],
+
+   "locust":	["Chirping Locust"],
+
+   "lone_wolf":	["Howling Lone Wolf"],
+
+   "louse":	["Chittering Louse"],
+
+   "lovebird":	["Cooing Lovebird", "Warbling Lovebird"],
+
+   "macaque":	["Barking Macaque"],
+
+   "macaw":	["Squawking Macaw"],
+
+   "magpie":	["Chattering Magpie", "Warbling Magpie"],
+
+   "meerkat":	["Peeping Meerkat"],
+
+   "mimic_octopus":	["Sputtering Mimic Octopus"],
+
+   "minnow":	["Peeping Minnow"],
+
+   "mockingbird":	["Warbling Mockingbird", "Saing Mockingbird"],
+
+   "mole":	["Squeeking Mole", "Twittering Mole"],
+
+   "mole_rat":	["Squeeking Mole Rat", "Twittering Mole Rat"],
+
+   "monkey":	["Hooting Monkey"],
+
+   "moose":	["Bellowing Moose"],
+
+   "mosquito":	["Whining Mosquito"],
+
+   "mountain_goat":	["Bleating Mountain Goat"],
+
+   "mouse":	["Squeeking Mouse"],
+
+   "mule":	["Braying Mule"],
+
+   "nanny_goat":	["Bleating Nanny Goat"],
+
+   "narwhal":	["Trilling Narwhal", "Whistling Narwhal"],
+
+   "nightingale":	["Saing Nightingale", "Warbling Nightingale"],
+
+   "octopus":	["Sputtering Octopus"],
+
+   "orangutan":	["Rumbling Orangutan"],
+
+   "orca":	["Whistling Orca"],
+
+   "ostrich":	["Hissing Ostrich"],
+
+   "otter":	["Gurgling Otter"],
+
+   "owl":	["Hooting Owl"],
+
+   "ox":	["Lowing Ox"],
+
+   "pack_rat":	["Squeeking Pack Rat"],
+
+   "panda":	["Huffing Panda"],
+
+   "panther":	["Snarling Panther"],
+
+   "parasite":	["Sucking Parasite"],
+
+   "parrot":	["Squawking Parrot"],
+
+   "peacock":	["Mewing Peacock"],
+
+   "pelican":	["Clacking Pelican"],
+
+   "penguin":	["Cackling Penguin", "Braying Penguin"],
+
+   "pheasant":	["Mewing Pheasant"],
+
+   "pig":	["Oinking Pig", "Squealing Pig", "Grunting Pig"],
+
+   "pigeon":	["Cooing Pigeon"],
+
+   "piranha":	["Snapping Piranha"],
+
+   "pit_viper":	["Hissing Pit Viper"],
+
+   "pitbull":	["Growling Pitbull", "Barking Pitbull"],
+
+   "platypus":	["Growling Platypus"],
+
+   "polar_bear":	["Chuffing Polar Bear"],
+
+   "poodle":	["Barking Poodle"],
+
+   "porcupine":	["Huffing Porcupine"],
+
+   "possum":	["Clicking Possum"],
+
+   "praying_mantis":	["Chanting Praying Mantis"],
+
+   "puma":	["Purring Puma", "Meowing Puma", "Snarling Puma"],
+
+   "puppy":	["Barking Puppy"],
+
+   "queen_bee":	["Buzzing Queen Bee", "Humming Queen Bee"],
+
+   "rabbit":	["Squeeking Rabbit", "Drumming Rabbit"],
+
+   "raccoon":	["Trilling Raccoon"],
+
+   "racehorse":	["Neighing Racehorse", "Whinnying Racehorse", "Nickering Racehorse"],
+
+   "ram":	["Bleating Ram", "Baaing Ram"],
+
+   "rat":	["Squeeking Rat"],
+
+   "rattlesnake":	["Hissing Rattlesnake", "Rattling Rattlesnake"],
+
+   "raven":	["Cawing Raven"],
+
+   "red_panda":	["Squeeking Red Panda", "Growling Red Panda"],
+
+   "rescue_dog":	["Barking Rescue Dog"],
+
+   "rhesus_monkey":	["Hooting Rhesus Monkey", "Panting Rhesus Monkey"],
+
+   "rhino":	["Bellowing Rhino"],
+
+   "rogue_elephant":	["Trumpeting Rogue Elephant"],
+
+   "rooster":	["Crowing Rooster", "Clucking Rooster"],
+
+   "Rottweiler":	["Barking Rottweiler", "Snarling Rottweiler"],
+
+   "Russian_bear":	["Growling Russian Bear"],
+
+   "sacred_cow":	["Moowing Sacred Cow", "Lowing Sacred Cow"],
+
+   "Saint_Bernard":	["Barking Saint Bernard"],
+
+   "salamander":	["Hissing Salamander"],
+
+   "scorpion":	["Hissing Scorpion"],
+
+   "sea_sponge":	["Squelching Sea Sponge"],
+
+   "seahorse":	["Neighing Seahorse"],
+
+   "Seaworld_whale":	["Whooshing Seaworld Whale"],
+
+   "serpent":	["Hissing Serpent"],
+
+   "sewer_rat":	["Squeeking Sewer Rat"],
+
+   "shark":	["Sputtering Shark"],
+
+   "sheep":	["Baaing Sheep", "Bleating Sheep"],
+
+   "show_dog":	["Barking Show Dog"],
+
+   "show_horse":	["Neighing Show Horse", "Whinnying Show Horse", "Nickering Show Horse"],
+
+   "shrew":	["Nagging Shrew"],
+
+   "silverback":	["Bellowing Silverback", "Gibbering Silverback", "Grunting Silverback"],
+
+   "skunk":	["Shrieking Skunk"],
+
+   "slug":	["Oozing Slug"],
+
+   "snail":	["Oozing Snail"],
+
+   "snake":	["Hissing Snake"],
+
+   "snapping_turtle":	["Snapping Snapping Turtle"],
+
+   "snow_leopard":	["Purring Snow Leopard", "Meowing Snow Leopard", "Snarling Snow Leopard"],
+
+   "soldier_ant":	["Chittering Soldier Ant"],
+
+   "songbird":	["Saing Songbird", "Warbling Songbird"],
+
+   "spider":	["Chittering Spider"],
+
+   "spider_monkey":	["Hooting Spider Monkey"],
+
+   "spotted_hyena":	["Laughing Spotted Hyena", "Screaming Spotted Hyena"],
+
+   "squid":	["Squelching Squid"],
+
+   "squirrel":	["Chattering Squirrel"],
+
+   "stallion":	["Neighing Stallion", "Whinnying Stallion", "Nickering Stallion"],
+
+   "starfish":	["Squelching Starfish"],
+
+   "stick_insect":	["Chirping Stick Insect", "Chittering Stick Insect"],
+
+   "stoat":	["Dooking Stoat"],
+
+   "stray_dog":	["Barking Stray Dog"],
+
+   "stunt_dog":	["Barking Stunt Dog"],
+
+   "swallow":	["Twittering Swallow"],
+
+   "swan":	["Crying Swan"],
+
+   "swine":	["Oinking Swine", "Squealing Swine", "Grunting Swine"],
+
+   "tarantula":	["Chittering Tarantula"],
+
+   "tarsier":	["Chirruping Tarsier"],
+
+   "Tasmanian_devil":	["Coughing Tasmanian Devil", "Snarling Tasmanian Devil", "Screeching Tasmanian Devil"],
+
+   "termite":	["Chittering Termite"],
+
+   "terrier":	["Barking Terrier", "Snapping Terrier"],
+
+   "tick":	["Sucking Tick"],
+
+   "tiger":	["Growling Tiger", "Roaring Tiger", "Snarling Tiger"],
+
+   "toad":	["Croaking Toad"],
+
+   "tortoise":	["Peeping Tortoise"],
+
+   "toy_poodle":	["Barking Toy Poodle"],
+
+   "tree_frog":	["Croaking Tree Frog"],
+
+   "tree_shrew":	["Nagging Tree Shrew"],
+
+   "tree_sloth":	["Sighing Tree Sloth"],
+
+   "turkey":	["Gobbling Turkey"],
+
+   "turtle":	["Hissing Turtle"],
+
+   "unicorn":	["Neighing Unicorn", "Whinnying Unicorn", "Nickering Unicorn"],
+
+   "vampire_bat":	["Screeching Vampire Bat", "Oozing Vampire Bat"],
+
+   "vampire_finch":	["Twittering Vampire Finch"],
+
+   "Venus_flytrap":	["Snapping Venus Flytrap"],
+
+   "vervet_monkey":	["Hooting Vervet Monkey", "Panting Vervet Monkey"],
+
+   "viper":	["Hissing Viper"],
+
+   "vulture":	["Squawking Vulture"],
+
+   "walrus":	["Barking Walrus", "Whooping Walrus", "Snorting Walrus"],
+
+   "warthog":	["Grunting Warthog"],
+
+   "wasp":	["Humming Wasp", "Buzzing Wasp"],
+
+   "watchdog":	["Barking Watchdog", "Growling Watchdog"],
+
+   "water_snake":	["Hissing Water Snake"],
+
+   "weasel":	["Dooking Weasel"],
+
+   "white_tiger":	["Growling White Tiger", "Roaring White Tiger", "Snarling White Tiger"],
+
+   "wild_boar":	["Grunting Wild Boar"],
+
+   "wolf":	["Howling Wolf"],
+
+   "wolf_fish":	["Sputtering Wolf Fish"],
+
+   "wolverine":	["Muttering Wolverine", "Hissing Wolverine"],
+
+   "wombat":	["Squeeling Wombat"],
+
+   "woodpecker":	["Drumming Woodpecker"],
+
+   "worker_ant":	["Chittering Worker Ant"],
+
+   "worker_bee":	["Buzzing Worker Bee", "Humming Worker Bee"],
+
+   "worm":	["Oozing Worm"],
+
+   "yeti":	["Bellowing Yeti", "Growling Yeti"],
+
+   "animal_pairing": ["The #habitat_A# and #habitat_B#"],
+
+   "origin": ["#animal_pairing#"]
+}
