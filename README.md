@@ -20,4 +20,8 @@ Note that the content of the grammar in each case is often so large
 that the grammar uses cryptic two-letter shorthands to name its non-terminals, making the whole grammar hard to read for humans.
 This is a necessary requirement if the grammar is to fit into the storage space allocated by CheapBotsDoneQuick.com
 
+Please also note the following VERY IMPORTANT point:  
+
+A number of the grammars in this repository are machine-generated from a large database of (more-or-less) creative similes that have been harvested from humans on the web (using the pattern "about as X as Y Z"). Human creativity is a mixed bag, especially on the web. Most of the similes are vivid and many are humorous, but some are tasteless and more than a few will be offensive. We've done our best to filter the worst examples, but not every combination of words that might cause offense has been removed. Many examples are borderline, and we want the database to represent a good spread of linguistic creativity, minus hateful misogyny and bigotry. So please remember this caution when delving into these grammars. We haven't added specific examples by hand, and our intent is not to offend. If you find a specific example to be egregious, let us know and we'll remove it.
+
 Please address any questions to:  Tony.Veale@UCD.ie
