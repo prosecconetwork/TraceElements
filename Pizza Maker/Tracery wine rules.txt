@@ -1,0 +1,344 @@
+{
+   "salmon bev": ["Riesling","Pinot Noir","Pinot Grigio","Malbec","Merlot","Champagne","Prosecco","Cava"],
+
+   "seafood bev": ["Riesling","Chardonnay","Pinot Grigio","Champagne","Prosecco","Cava","Zinfandel Rosé"],
+
+   "tuna bev": ["Riesling","Pinot Noir","Pinot Grigio","Malbec","Merlot","Champagne","Prosecco","Cava","Chardonnay","Zinfandel Rosé"],
+
+   "ham bev": ["Riesling","Pinot Noir","Malbec"],
+
+   "vegan bev": ["Riesling"],
+
+   "barbecue bev": ["Riesling","Syrah"],
+
+   "Chorizo bev": ["Riesling","Champagne","Prosecco","Cava","Rioja","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay","Zinfandel Rosé"],
+
+   "sausage bev": ["Riesling","Syrah","Champagne","Prosecco","Cava","Cabernet Sauvignon","Chardonnay","Pinot Noir","Malbec"],
+
+   "Pepperoni bev": ["Riesling","Champagne","Prosecco","Cava","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay","Zinfandel Rosé","Rioja"],
+
+   "grilled bev": ["Riesling","Merlot"],
+
+   "salty bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "goat bev": ["Sauvignon Blanc"],
+
+   "courgette bev": ["Sauvignon Blanc","Chardonnay"],
+
+   "pesto bev": ["Sauvignon Blanc"],
+
+   "Cod bev": ["Sauvignon Blanc","Champagne","Prosecco","Cava"],
+
+   "sour bev": ["Sauvignon Blanc","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "oyster bev": ["Sauvignon Blanc"],
+
+   "lobster bev": ["Sauvignon Blanc"],
+
+   "prawn bev": ["Sauvignon Blanc","Pinot Grigio"],
+
+   "bell peppers bev": ["Sauvignon Blanc","Diet Coke"],
+
+   "cherry bev": ["Sauvignon Blanc","Pinot Noir","Malbec","Sangiovese"],
+
+   "sardine bev": ["Sauvignon Blanc"],
+
+   "beef bev": ["Cabernet Sauvignon"],
+
+   "venison bev": ["Cabernet Sauvignon","Pinot Noir","Malbec"],
+
+   "duck bev": ["Cabernet Sauvignon","Pinot Noir","Malbec"],
+
+   "pork bev": ["Cabernet Sauvignon","Syrah","Chardonnay","Pinot Noir","Malbec"],
+
+   "spicy bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja"],
+
+   "soy bev": ["Cabernet Sauvignon"],
+
+   "pepper jelly bev": ["Cabernet Sauvignon","Riesling","Champagne","Prosecco"],
+
+   "lamb bev": ["Syrah","Merlot"],
+
+   "olives bev": ["Syrah","Merlot"],
+
+   "pepper bev": ["Syrah"],
+
+   "nut bev": ["Chardonnay"],
+
+   "corn bev": ["Chardonnay"],
+
+   "jerky bev": ["Chardonnay"],
+
+   "chicken bev": ["Chardonnay","Pinot Grigio","Zinfandel Rosé"],
+
+   "turkey bev": ["Chardonnay"],
+
+   "ginger bev": ["Pinot Noir","Malbec"],
+
+   "berries bev": ["Pinot Noir","Malbec","Merlot","Sangiovese"],
+
+   "Asian bev": ["Pinot Noir","Pinot Grigio","Malbec"],
+
+   "pastrami bev": ["Pinot Noir","Malbec","Cabernet Sauvignon","Cava"],
+
+   "crab bev": ["Pinot Grigio","Zinfandel Rosé"],
+
+   "coconut bev": ["Pinot Grigio"],
+
+   "Gruyere bev": ["Pinot Grigio"],
+
+   "Gorgonzola bev": ["Pinot Grigio","Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "Stilton bev": ["Pinot Grigio","Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "blue cheese bev": ["Pinot Grigio"],
+
+   "Steak bev": ["Merlot","Cabernet Sauvignon","Champagne","Prosecco"],
+
+   "mushroom bev": ["Merlot"],
+
+   "satay bev": ["Merlot"],
+
+   "Caviar bev": ["Champagne","Prosecco","Cava"],
+
+   "cream bev": ["Champagne","Prosecco","Cava"],
+
+   "pickled bev": ["Champagne","Prosecco","Cava"],
+
+   "gourmet bev": ["Champagne","Prosecco"],
+
+   "smoked bev": ["Cava"],
+
+   "Danish bev": ["Carlsberg beer","Heineken beer","Guinness beer"],
+
+   "American bev": ["Diet Coke"],
+
+   "sweet bev": ["Diet Coke"],
+
+   "Scottish bev": ["Irn Bru"],
+
+   "Piri Piri bev": ["Zinfandel Rosé"],
+
+   "Parma bev": ["Zinfandel Rosé"],
+
+   "Puttenesca bev": ["Zinfandel Rosé"],
+
+   "aioli bev": ["Zinfandel Rosé"],
+
+   "garlic bev": ["Zinfandel Rosé"],
+
+   "sardines bev": ["Zinfandel Rosé"],
+
+   "avocado bev": ["Zinfandel Rosé","Champagne","Prosecco"],
+
+   "Indian bev": ["Mango Lassi"],
+
+   "curried bev": ["Mango Lassi"],
+
+   "Tandoor bev": ["Mango Lassi"],
+
+   "Mexican bev": ["Sol beer","Margarita on the rocks"],
+
+   "Cod goujons bev": ["Riesling","Chardonnay","Pinot Grigio","Champagne","Prosecco","Cava","Zinfandel Rosé"],
+
+   "King prawns bev": ["Riesling","Chardonnay","Pinot Grigio","Champagne","Prosecco","Cava","Zinfandel Rosé"],
+
+   "smoked salmon bev": ["Riesling","Chardonnay","Pinot Grigio","Champagne","Prosecco","Cava","Zinfandel Rosé","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "anchovies bev": ["Riesling","Chardonnay","Pinot Grigio","Champagne","Prosecco","Cava","Zinfandel Rosé","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "Puttenesca sauce bev": ["Riesling","Chardonnay","Pinot Grigio","Champagne","Prosecco","Cava","Zinfandel Rosé","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "falafel bev": ["Riesling"],
+
+   "soy chunks bev": ["Riesling"],
+
+   "Quorn chunks bev": ["Riesling"],
+
+   "Tofu cubes bev": ["Riesling"],
+
+   "smoked tofu bev": ["Riesling"],
+
+   "bean curd bev": ["Riesling"],
+
+   "soy cheese bev": ["Riesling"],
+
+   "Marinara sauce bev": ["Riesling"],
+
+   "barbecue sauce bev": ["Riesling","Diet Coke"],
+
+   "salsa bev": ["Riesling","Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Sol beer","Margarita on the rocks"],
+
+   "olive tapenade bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "tomato pesto bev": ["Riesling"],
+
+   "basil pesto bev": ["Riesling"],
+
+   "hummus bev": ["Riesling"],
+
+   "harissa sauce bev": ["Riesling","Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja"],
+
+   "Chimichurri sauce bev": ["Riesling","Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Sol beer","Margarita on the rocks"],
+
+   "Soy-Miso sauce bev": ["Riesling","Pinot Noir","Pinot Grigio","Malbec"],
+
+   "Hoisin sauce bev": ["Riesling","Pinot Noir","Pinot Grigio","Malbec"],
+
+   "Thai Chili sauce bev": ["Riesling","Pinot Noir","Pinot Grigio","Malbec"],
+
+   "fig jam bev": ["Riesling","Champagne","Prosecco","Diet Coke"],
+
+   "Zaatar and olive oil bev": ["Riesling"],
+
+   "balsamic glaze bev": ["Riesling","Sauvignon Blanc","Chenin Blanc","Muscat Blanc","Gewürztraminer","Champagne","Prosecco"],
+
+   "Beef jerky bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon"],
+
+   "Salami bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay"],
+
+   "black pudding bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay"],
+
+   "blood sausage bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay"],
+
+   "Spam bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay"],
+
+   "ham hock bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay"],
+
+   "Parma ham bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay"],
+
+   "pulled pork bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay"],
+
+   "bacon bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay"],
+
+   "Canadian bacon bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Diet Coke"],
+
+   "French fries bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Diet Coke"],
+
+   "capers bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "black olives bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "green olives bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "pistachios bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Chardonnay"],
+
+   "roasted peanuts bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer","Chardonnay"],
+
+   "feta cheese bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "haloumi cheese bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "Wensleydale bev": ["Riesling","Pinot Noir","Malbec","Champagne","Prosecco","Cava","Carlsberg beer","Heineken beer","Guinness beer","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "sweet and sour chicken bev": ["Sauvignon Blanc","Chenin Blanc","Muscat Blanc","Gewürztraminer","Chardonnay","Pinot Grigio","Zinfandel Rosé","Pinot Noir","Malbec","Diet Coke"],
+
+   "sweet and sour pork bev": ["Sauvignon Blanc","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Syrah","Chardonnay","Pinot Noir","Malbec","Pinot Grigio","Diet Coke"],
+
+   "sauerkraut bev": ["Sauvignon Blanc","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "kimchi bev": ["Sauvignon Blanc","Chenin Blanc","Muscat Blanc","Gewürztraminer","Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Rioja"],
+
+   "pickled onions bev": ["Sauvignon Blanc","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "sourdough crust bev": ["Sauvignon Blanc","Chenin Blanc","Muscat Blanc","Gewürztraminer"],
+
+   "Filet Mignon bev": ["Cabernet Sauvignon","Champagne","Prosecco"],
+
+   "Roast beef bev": ["Cabernet Sauvignon"],
+
+   "Korean beef bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja"],
+
+   "Taco beef bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja"],
+
+   "meatballs bev": ["Cabernet Sauvignon"],
+
+   "Kobe beef bev": ["Cabernet Sauvignon","Pinot Noir","Pinot Grigio","Malbec","Champagne","Prosecco"],
+
+   "Mongolian beef bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Pinot Grigio"],
+
+   "Chilli con carne bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Sol beer","Margarita on the rocks"],
+
+   "Chicken Fajitas bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Chardonnay","Pinot Grigio","Sol beer","Margarita on the rocks"],
+
+   "chicken Tikka bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Chardonnay","Pinot Grigio","Mango Lassi"],
+
+   "curried chicken bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Chardonnay","Pinot Grigio","Mango Lassi"],
+
+   "Tandoori chicken bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Chardonnay","Pinot Grigio","Mango Lassi"],
+
+   "jalapenos bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Sol beer","Margarita on the rocks"],
+
+   "habanero chillis bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Sol beer","Margarita on the rocks"],
+
+   "chopped garlic bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja"],
+
+   "Jalapeno Jack bev": ["Cabernet Sauvignon","Pinot Noir","Malbec","Carlsberg beer","Heineken beer","Guinness beer","Zinfandel Rosé","Chenin Blanc","Muscat Blanc","Gewürztraminer","Rioja","Sol beer","Margarita on the rocks"],
+
+   "lamb kofta bev": ["Syrah","Merlot"],
+
+   "satay chicken bev": ["Chardonnay","Pinot Grigio","Zinfandel Rosé","Pinot Noir","Malbec"],
+
+   "pine nuts bev": ["Chardonnay"],
+
+   "toasted almonds bev": ["Chardonnay","Diet Coke"],
+
+   "satay sauce bev": ["Chardonnay","Pinot Noir","Pinot Grigio","Malbec"],
+
+   "grilled chicken bev": ["Chardonnay","Pinot Grigio","Zinfandel Rosé"],
+
+   "roast turkey bev": ["Chardonnay"],
+
+   "paneer cheese bev": ["Pinot Noir","Pinot Grigio","Malbec","Mango Lassi"],
+
+   "curry sauce bev": ["Pinot Noir","Pinot Grigio","Malbec","Mango Lassi"],
+
+   "Alfredo sauce bev": ["Champagne","Prosecco","Cava"],
+
+   "Carbonarra sauce bev": ["Champagne","Prosecco","Cava"],
+
+   "Bechamel sauce bev": ["Champagne","Prosecco","Cava"],
+
+   "Shiitake mushrooms bev": ["Champagne","Prosecco"],
+
+   "Portobello mushrooms bev": ["Champagne","Prosecco"],
+
+   "porcini mushrooms bev": ["Champagne","Prosecco"],
+
+   "truffle shavings bev": ["Champagne","Prosecco"],
+
+   "goat's cheese bev": ["Champagne","Prosecco"],
+
+   "garlic aioli sauce bev": ["Champagne","Prosecco"],
+
+   "wholewheat crust bev": ["Champagne","Prosecco"],
+
+   "multigrain crust bev": ["Champagne","Prosecco"],
+
+   "Danish blue cheese bev": ["Carlsberg beer","Heineken beer","Guinness beer"],
+
+   "Monterey Jack bev": ["Diet Coke"],
+
+   "Ranch sauce bev": ["Diet Coke"],
+
+   "thick crust bev": ["Diet Coke"],
+
+   "cranberries bev": ["Diet Coke"],
+
+   "red peppers bev": ["Diet Coke"],
+
+   "sun-dried tomatoes bev": ["Diet Coke"],
+
+   "pumpkin chunks bev": ["Diet Coke"],
+
+   "raisins bev": ["Diet Coke"],
+
+   "cherry tomatoes bev": ["Diet Coke"],
+
+   "grilled apricots bev": ["Diet Coke"],
+
+   "orange segments bev": ["Diet Coke"],
+
+   "Queso Fresco bev": ["Sol beer","Margarita on the rocks"]
+
+}
