@@ -1,0 +1,17 @@
+{
+
+   "pizza": ["I made this pizza with #Meat# and #Vegetable# as toppings on #Cheese# and #Sauce# on a #Base#."],
+
+
+   "Meat": ["Swedish meatballs","Filet Mignon","Beef jerky","Roast beef","Korean beef","Taco beef","Chicken Fajitas","Salami","Pepperoni","sausage","meatballs","Chorizo","King prawns","grilled chicken","tuna","chicken Tikka","curried chicken","Tandoori chicken","sweet and sour chicken","Mongolian beef","falafel","smoked salmon","pastrami","black pudding","blood sausage","Spam","ham hock","Parna ham","pulled pork","Chilli con carne","bacon","anchovies","soy chunks","Quorn chunks","Tofu cubes"],
+
+   "Vegetable": ["Canadian bacon","bell peppers","baby spinach","red onions","French onions","French fries","red peppers","sun-dried tomatoes","sliced aubergine","sliced courgettes","carrot strips","shallots","artichoke hearts","beetroot slices","pine nuts","pumpkin chunks","raisins","capers","chickpeas","avocado","jalapenos","habanero chillis","sauerkraut","kimchi","pickled onions","chopped garlic","cherry tomatoes","sliced almonds","grilled apricots","black olives","green olives","Shitake mushrooms","button mushrooms","Portobello mushrooms","porcini mushrooms","wilted greens","sliced green tomatoes"],
+
+   "Cheese": ["feta cheese","Gorgonzola","Stilton","Camembert","Cheddar","goat's cheese","haloumi cheese","smoked tofu","bean curd","Quark","Mozzarella","Danish blue cheese","Provolone","Swiss cheese","Red Leicester","Wensleydale","Port Salut cheese","Monterey Jack","Gruyere","Edam","Gouda","Munster cheese","soy cheese","paneer cheese","cottage cheese","ricotta cheese","Parmesan cheese","Boursin cheese","Queso Fresco","Jalapeno Jack"],
+
+   "Sauce": ["Marinara sauce","barbecue sauce","curry sauce","Alfredo sauce","salsa","ragu","olive tapenade","tomato pesto","basil pesto","Carbonarra sauce","Bolognese sauce","Bechamel sauce","hummus","harissa sauce","Ranch sauce","garlic aioli sauce","pepper jelly","Chimichurri sauce","Soy-Miso sauce","Hoisin sauce","Thai Chili sauce","fig jam","Zaatar and olive oil","balsamic glaze"],
+
+   "Base": ["flatbread","gyro bread","thin crust","thick crust","focaccia","ciabatta","puff pastry","deep dish","stuffed crust","raised crust","cracker crust","unleavened crust","wholewheat crust","multigrain crust","sourdough crust","gluten-free crust"],
+
+   "origin": ["#pizza#"]
+}
